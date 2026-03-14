@@ -1,13 +1,13 @@
 ﻿l_russian:
  # Monuments:
  MONUMENT_1_NAME: "Бранденбургские ворота"
- MONUMENT_1_DESC: "The §Y$MONUMENT_1_NAME$§! is an 18th-century neoclassical monument in $VICTORY_POINTS_6521$, built on the orders of Prussian King Frederick William II after the temporary restoration of order during the Batavian Revolution. It was commissioned to represent peace and was originally named the §YPeace Gate§!. Atop the gate is a sculpture of a quadriga - a chariot drawn by four horses - driven by Victoria, the Roman goddess of victory."
+ MONUMENT_1_DESC: "§Y$MONUMENT_1_NAME$§! это неоклассический памятник 18-го века расположенный в $VICTORY_POINTS_6521$, простроены по распоряжению прусского короля Фридриха Вильгельма II после насильственного усмирения Республики Соединённые Нидерланды вторжением прусских войск. Они были задуманы как символ мира и первоначально назывались §YВоротами мира§!. На вершине ворот установлена скульптура квадриги – колесницы, запряжённой четверкой лошадей, управляемая Викторией, римской богиней победы."
 
  MONUMENT_2_NAME: "Триумфальная арка"
- MONUMENT_2_DESC: "The §Y$MONUMENT_2_NAME$§! was commissioned in 1806, after the victory at Austerlitz by Emperor Napoleon at the peak of his fortunes. Following its construction, the §Y$MONUMENT_2_NAME$§! became the rallying point of French troops parading after successful military campaigns and for the annual Bastille Day military parade. Famous victory marches around or under the §Y$MONUMENT_2_NAME$§! have included the Germans in 1871 and the French in 1919."
+ MONUMENT_2_DESC: "§Y$MONUMENT_2_NAME$§! была разработана в 1806 году после победы императора Напалеона в битве при Аустрелице. После строительства, §Y$MONUMENT_2_NAME$§! стала местом сбора французских войск, проходящих парадом после успешных военных кампаний, а также для ежегодного военного парада в День взятия Бастилии. Среди знаменитых маршей, прошедших под или рядом с §Y$MONUMENT_2_NAME$§! — марш немецких войск в 1871 году и французских в 1919."
 
  MONUMENT_3_NAME: "Эйфелева башня"
- MONUMENT_3_DESC: "The §Y$MONUMENT_3_NAME$§! is a wrought-iron lattice tower. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. It was constructed from 1887 to 1889 as the entrance to the 1889 World's Fair and is 324 meters tall."
+ MONUMENT_3_DESC: "§Y$MONUMENT_3_NAME$§! – решетчатая башня из кованого железа высотой 324 метра. Названа в честь Гюстава Эйфеля, чья компания спроектировала и построила башню. Строилась с 1887-го по 1889 год и первоначально задумывалась как временное сооружение, служившее входной аркой парижской Всемирной выставки 1889 года."
 
  MONUMENT_4_NAME: "Колонна Победы"
  MONUMENT_4_DESC: "The §Y$MONUMENT_4_NAME$§! was designed in 1864 to commemorate the Prussian victory in the Second Schleswig War. By the time it was inaugurated on 2 September 1873, Prussia had also defeated Austria and its German allies in the Austro-Prussian War (1866) and France in the Franco-Prussian War (1870–71), giving the statue a new purpose. Different from the original plans, these later victories in the unification wars inspired the addition of the bronze sculpture of Victoria, the Roman goddess of victory."
