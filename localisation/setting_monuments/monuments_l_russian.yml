@@ -1,120 +1,120 @@
 ﻿l_russian:
  # Monuments:
- MONUMENT_1_NAME: "Brandenburg Gate"
+ MONUMENT_1_NAME: "Бранденбургские ворота"
  MONUMENT_1_DESC: "The §Y$MONUMENT_1_NAME$§! is an 18th-century neoclassical monument in $VICTORY_POINTS_6521$, built on the orders of Prussian King Frederick William II after the temporary restoration of order during the Batavian Revolution. It was commissioned to represent peace and was originally named the §YPeace Gate§!. Atop the gate is a sculpture of a quadriga - a chariot drawn by four horses - driven by Victoria, the Roman goddess of victory."
 
- MONUMENT_2_NAME: "Arc de Triomphe"
+ MONUMENT_2_NAME: "Триумфальная арка"
  MONUMENT_2_DESC: "The §Y$MONUMENT_2_NAME$§! was commissioned in 1806, after the victory at Austerlitz by Emperor Napoleon at the peak of his fortunes. Following its construction, the §Y$MONUMENT_2_NAME$§! became the rallying point of French troops parading after successful military campaigns and for the annual Bastille Day military parade. Famous victory marches around or under the §Y$MONUMENT_2_NAME$§! have included the Germans in 1871 and the French in 1919."
 
- MONUMENT_3_NAME: "Eiffel Tower"
+ MONUMENT_3_NAME: "Эйфелева башня"
  MONUMENT_3_DESC: "The §Y$MONUMENT_3_NAME$§! is a wrought-iron lattice tower. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. It was constructed from 1887 to 1889 as the entrance to the 1889 World's Fair and is 324 meters tall."
 
- MONUMENT_4_NAME: "Victory Column"
+ MONUMENT_4_NAME: "Колонна Победы"
  MONUMENT_4_DESC: "The §Y$MONUMENT_4_NAME$§! was designed in 1864 to commemorate the Prussian victory in the Second Schleswig War. By the time it was inaugurated on 2 September 1873, Prussia had also defeated Austria and its German allies in the Austro-Prussian War (1866) and France in the Franco-Prussian War (1870–71), giving the statue a new purpose. Different from the original plans, these later victories in the unification wars inspired the addition of the bronze sculpture of Victoria, the Roman goddess of victory."
 
- MONUMENT_5_NAME: "Palace of Westminster"
+ MONUMENT_5_NAME: "Вестминстерский дворец"
  MONUMENT_5_DESC: "The §Y$MONUMENT_5_NAME$§! serves as the meeting place for both the §YHouse of Commons§! and the §YHouse of Lords§!, the two houses of the Parliament of Great Britain. The §Y$MONUMENT_5_NAME$§! as a whole underwent significant alterations from the 18th century onwards, as Parliament struggled to carry out its business in the limited available space of ageing buildings. Calls for an entirely new palace went unheeded – instead more buildings of varying quality and style were added."
 
- MONUMENT_6_NAME: "Buckingham Palace"
+ MONUMENT_6_NAME: "Букингемский дворец"
  MONUMENT_6_DESC: "§Y$MONUMENT_6_NAME$§! is the administrative headquarters of the monarch of Great Britain. Originally known as §YBuckingham House§!, the building at the core of the palace was a large townhouse built for the Duke of Buckingham in 1703 on a site that had been in private ownership for at least 150 years. It was acquired by King George III in 1761 as a private residence for Queen Charlotte and became known as The Queen's House. During the 19th century it was enlarged. §Y$MONUMENT_6_NAME$§! became the $VICTORY_POINTS_6103$ residence of the British monarch on the accession of Queen Victoria in 1837."
 
- MONUMENT_7_NAME: "Statue of Liberty"
+ MONUMENT_7_NAME: "Статуя Свободы"
  MONUMENT_7_DESC: "The §Y$MONUMENT_7_NAME$§! is a colossal neoclassical sculpture. The copper statue is a gift from the people of France to the people of the United States and was dedicated on October 28, 1886. The statue is a figure of Libertas, a robed Roman liberty goddess. She holds a torch above her head with her right hand, and in her left hand carries a tabula ansata inscribed JULY IV MDCCLXXVI (July 4, 1776 in Roman numerals), the date of the U.S. Declaration of Independence. A broken shackle and chain lie at her feet as she walks forward, commemorating the recent national abolition of slavery. After its dedication, the statue became an icon of freedom."
 
- MONUMENT_8_NAME: "Mount Rushmore National Memorial"
+ MONUMENT_8_NAME: "Гора Рашмор"
  MONUMENT_8_DESC: "§Y$MONUMENT_8_NAME$§! is centered on a colossal sculpture carved into the granite face of Mount Rushmore in the §YBlack Hills§!. The sculpture features the 18-meter heads of Presidents George Washington (1732–1799), Thomas Jefferson (1743–1826), Theodore Roosevelt (1858–1919) and Abraham Lincoln (1809–1865)."
 
- MONUMENT_9_NAME: "White House"
+ MONUMENT_9_NAME: "Белый дом"
  MONUMENT_9_DESC: "The §Y$MONUMENT_9_NAME$§! is the official residence and workplace of the president of the United States of America. Because of crowding within the executive mansion itself, President Theodore Roosevelt had all work offices relocated to the newly constructed West Wing in 1901. Eight years later in 1909, President William Howard Taft expanded the West Wing and created the first Oval Office, which was eventually moved as the section was expanded. In the main mansion, the third-floor attic was converted to living quarters in 1927 by augmenting the existing hip roof with long shed dormers."
 
- MONUMENT_10_NAME: "United States Capitol"
+ MONUMENT_10_NAME: "Капитолий"
  MONUMENT_10_DESC: "The §Y$MONUMENT_10_NAME$§!, often called §YThe Capitol§! or the §YCapitol Building§!, is the meeting place of the United States Congress and the seat of the legislative branch of the U.S. federal government. The original building was completed in 1800. It was partly destroyed in the 1814 burning of $VICTORY_POINTS_3957$, then was fully restored within five years. The building was later enlarged, with the addition of a massive dome, and extended wings with expanded chambers for the bicameral legislature, the House of Representatives in the south wing and the Senate in the north wing. Like the principal buildings of the executive and judicial branches, the §Y$MONUMENT_10_NAME$§! is built in the neoclassic style and has a white exterior."
 
- MONUMENT_11_NAME: "Winter Palace"
+ MONUMENT_11_NAME: "Зимний дворец"
  MONUMENT_11_DESC: "The §Y$MONUMENT_11_NAME$§! served as the official residence of the Russian Emperors from 1732 to 1917. The emperors constructed their palace on a monumental scale that aimed to reflect the might and power of Imperial Russia. The green-and-white palace has the overall shape of an elongated rectangle, and its principal façade is 215 meters long and 30 meters high."
 
- MONUMENT_12_NAME: "Red Square"
+ MONUMENT_12_NAME: "Красная площадь"
  MONUMENT_12_DESC: "The §Y$MONUMENT_12_NAME$§! is one of the oldest and largest squares in $VICTORY_POINTS_6380$. It is located in $VICTORY_POINTS_6380$'s historic center, in the eastern walls of the Kremlin. It is the city landmark of $VICTORY_POINTS_6380$, with iconic buildings such as Saint Basil's Cathedral and Lenin's Mausoleum. The §Y$MONUMENT_12_NAME$§! was meant to serve as the city's main marketplace. It was also the site of various public ceremonies and proclamations. It has been used for official ceremonies by all Russian governments since it was established."
 
- MONUMENT_13_NAME: "Monument to the Sunken Ships"
+ MONUMENT_13_NAME: "Памятник затопленным кораблям"
  MONUMENT_13_DESC: "The §Y$MONUMENT_13_NAME$§! was erected in 1905 on the 50th anniversary of the Siege of $VICTORY_POINTS_3686$, during the Crimean War, in which many ships of the Imperial Russian Navy were scuttled, most of them part of the Black Sea Fleet."
 
- MONUMENT_14_NAME: "Colosseum"
+ MONUMENT_14_NAME: "Колизей"
  MONUMENT_14_DESC: "The §Y$MONUMENT_14_NAME$§! is an oval amphitheatre in the center of the city of $VICTORY_POINTS_9904$. It is the largest ancient amphitheatre ever built. Although substantially ruined because of earthquakes and stone-robbers, the §Y$MONUMENT_14_NAME$§! is still an iconic symbol of Imperial Rome. The arena substructure was partly excavated in 1810–1814 and 1874 and was fully exposed under Benito Mussolini in the 1930s."
 
- MONUMENT_15_NAME: "Reichstag"
+ MONUMENT_15_NAME: "Рейхстаг"
  MONUMENT_15_DESC: "The §Y$MONUMENT_15_NAME$§! is a historic edifice in $VICTORY_POINTS_6521$, constructed to house the Imperial Diet of the German Empire. It was opened in 1894 and housed the Diet until 1933, when it was severely damaged after being set on fire. In 1916 the iconic words "Dem Deutschen Volke" ("To the German People") were placed above the main façade of the building, much to the displeasure of Wilhelm II, who had tried to block the adding of the inscription for its democratic significance. After the Great War had ended and Wilhelm had abdicated, during the revolutionary days of 1918, Philipp Scheidemann proclaimed the institution of a republic from one of the balconies of the §Y$MONUMENT_15_NAME$§! on 9 November."
 
  MONUMENT_16_NAME: "Altare della Patria"
  MONUMENT_16_DESC: "The §Y$MONUMENT_16_NAME$§!, officially called §YMonumento Nazionale a Vittorio Emanuele II§!, is a national monument built in honour of Victor Emmanuel II, the first king of a unified Italy. From an architectural perspective, it was conceived as a modern forum, an agora on three levels connected by stairways and dominated by a portico characterized by a colonnade. The complex process of national unity and liberation from foreign domination carried out by King Victor Emmanuel II of Savoy, to whom the monument is dedicated, has a great symbolic and representative value, being architecturally and artistically centerd on the Italian unification - for this reason the §Y$MONUMENT_16_NAME$§! is considered one of the national symbols of Italy. It was planned in 1878. The construction started in 1885 and was completed in 1927."
 
- MONUMENT_17_NAME: "Palace of Venaria"
+ MONUMENT_17_NAME: "Королевский дворец Венария"
  MONUMENT_17_DESC: "The §Y$MONUMENT_17_NAME$§! is a former royal residence and gardens. It was designed and built from 1675, commissioned by duke Charles Emmanuel II, who needed a base for his hunting expeditions in the heathy hill country north of $VICTORY_POINTS_6780$. It was enlarged to become a luxurious residence for the House of Savoy. The palace complex became a masterpiece of Baroque architecture, and was filled with decoration and artwork. It fell into disuse at the end of the 18th century. Currently it is used for military purposes."
 
- MONUMENT_18_NAME: "Palazzo della Civiltà Italiana"
+ MONUMENT_18_NAME: "Дворец итальянской цивилизации"
  MONUMENT_18_DESC: "The §Y$MONUMENT_18_NAME$§! was designed in 1938 by three Italian architects. The building is an example of Italian Rationalism and fascist architecture with neoclassical design, representing romanità, a philosophy which encompasses the past, present, and future all in one. The enormity of the structure is meant to reflect the fascist regime's new course in Italian history. Atop all four sides of the building runs an inscription taken from a speech that Mussolini delivered on 2 October 1935: "Un popolo di poeti, di artisti, di eroi, di santi, di pensatori, di scienziati, di navigatori, di trasmigratori" ("a nation of poets, of artists, of heroes, of saints, of thinkers, of scientists, of navigators, of migrators")."
 
- MONUMENT_19_NAME: "Golden Gate Bridge"
+ MONUMENT_19_NAME: "Мост Золотые Ворота"
  MONUMENT_19_DESC: "The §Y$MONUMENT_19_NAME$§! is a suspension bridge spanning the Golden Gate, the 1.6-kilometer-wide strait connecting $VICTORY_POINTS_9671$ Bay and the Pacific Ocean. It was initially designed in 1917 and was completed in 1937. Before the bridge was built, the only practical short route between $VICTORY_POINTS_9671$ and Marin County was by boat across a section of $VICTORY_POINTS_9671$ Bay. A ferry service began as early as 1820, with a regularly scheduled service beginning in the 1840s for the purpose of transporting water to $VICTORY_POINTS_9671$."
 
- MONUMENT_20_NAME: "Giza Pyramid Complex"
+ MONUMENT_20_NAME: "Пирамиды Гизы"
  MONUMENT_20_DESC: "The §Y$MONUMENT_20_NAME$§!, also called the §YGiza Necropolis§!, is the site on the Giza Plateau in Greater $VICTORY_POINTS_7011$ that includes the §YGreat Pyramid of Giza§!, the §YPyramid of Khafre§!, and the §YPyramid of Menkaure§!, along with their associated pyramid complexes and the Great Sphinx of Giza. All were built during the Fourth Dynasty of the Old Kingdom of Ancient Egypt. The site also includes several cemeteries and the remains of a workers village. The site is at the edges of the Western Desert, approximately 9 kilometers west of the Nile River in the city of $VICTORY_POINTS_3996$, and about 13 kilometers southwest of the city center of $VICTORY_POINTS_7011$."
 
- MONUMENT_21_NAME: "Port of Antwerp"
+ MONUMENT_21_NAME: "Антверпенский порт"
  MONUMENT_21_DESC: "The §Y$MONUMENT_21_NAME$§! is one of the largest European ports. $VICTORY_POINTS_6598$'s potential as a seaport was recognized by Napoleon Bonaparte and he ordered the construction of $VICTORY_POINTS_6598$'s first dock in 1811. By 1908 eight docks had been constructed. During the Great War the §Y$MONUMENT_21_NAME$§! was of major strategic importance for the British."
 
- MONUMENT_22_NAME: "Pyramid of Austerlitz"
+ MONUMENT_22_NAME: "Аустерлицкая пирамида"
  MONUMENT_22_DESC: "The §Y$MONUMENT_22_NAME$§! is a 36-meter-high pyramid of earth, built in 1804 by Napoleon's soldiers on one of the highest points of the $VICTORY_POINTS_6241$ ridge. Atop the pyramid is a stone obelisk from 1894. In 1804, the French General Auguste de Marmont established an army camp in this central location in the Batavian Republic, where over a period of several months he forged together various battalions into a large, well-trained army, capable of beating the British enemy should there be any repetition of the invasion of 1799. In the autumn of 1804, satisfied with the military power of the new army, and to occupy his bored soldiers, Marmont had his soldiers build an earth and turf monument inspired by the Great Pyramid of Giza, which Marmont had seen in 1798 during Napoleon's Egyptian campaign. Even the erosion-exposed stepped surface was imitated. The construction lasted 27 days. In 1806, despite protests from Marmont, Louis Bonaparte, the new king of Holland, renamed the hill the §Y$MONUMENT_22_NAME$§!."
 
- MONUMENT_23_NAME: "Monument to the Battle of the Nations"
+ MONUMENT_23_NAME: "Памятник битве народов"
  MONUMENT_23_DESC: "The §Y$MONUMENT_23_NAME$§! is a 91-meter-tall monument in $VICTORY_POINTS_3535$ to the 1813 Battle of Leipzig, also known as the Battle of the Nations. Paid for mostly by donations and the city of $VICTORY_POINTS_3535$, it was completed in 1913 for the 100th anniversary of the battle at a cost of six million goldmarks. The monument commemorates the defeat of Napoleon's French army at $VICTORY_POINTS_3535$, a crucial step towards the end of hostilities in the War of the Sixth Coalition. The coalition armies of Russia, Prussia, Austria and Sweden were led by Tsar Alexander I of Russia and Karl Philipp, Prince of Schwarzenberg. There were Germans fighting on both sides, as Napoleon's troops also included conscripted Germans from the left bank of the Rhine annexed by France, as well as troops from his German allies of the Confederation of the Rhine."
 
- MONUMENT_24_NAME: "Millennium of Russia"
+ MONUMENT_24_NAME: "Тысячелетие России"
  MONUMENT_24_DESC: "The §Y$MONUMENT_24_NAME$§! is a bronze monument in $VICTORY_POINTS_117$. It was erected in 1862 to celebrate the millennium of Rurik's arrival to $VICTORY_POINTS_117$, an event traditionally taken as a starting point of the history of Russian statehood. The most expensive Russian monument up to that time, it was erected at a cost of 400,000 roubles, mostly raised by public subscription. In order to provide an appropriate pedestal for the huge sculpture, sixteen blocks of Sortavala granite were brought to $VICTORY_POINTS_117$, each weighing in excess of 35 tons. The bronze monument itself weighs 100 tons."
 
- MONUMENT_25_NAME: "Bletchley Park"
+ MONUMENT_25_NAME: "Блетчли-парк"
  MONUMENT_25_DESC: "§Y$MONUMENT_25_NAME$§! is an English country house and estate in Milton Keynes. In May 1938 Admiral Sir Hugh Sinclair, head of the Secret Intelligence Service, bought the mansion for government use in the event of war. From 1939 on it hosted the §YGovernment Code and Cypher School§!, which regularly penetrated the secret communications of the Axis Powers – most importantly the German Enigma and Lorenz ciphers."
 
  MONUMENT_26_NAME: "Istana"
  MONUMENT_26_DESC: "The §Y$MONUMENT_26_NAME$§!, also called §YGovernment House of Singapore§!, was built between 1867 and 1869 on the instructions of Sir Harry Saint George Ord, $VICTORY_POINTS_12299$'s first colonial governor after the transfer from the East India Company to the Colonial Office. Within the same compound is Sri Temasek, one of several senior colonial officers' residences in the Government House previously assigned to the Colonial Secretary. The 0.43 square kilometers estate was once part of the extensive nutmeg plantation of Mount Sophia."
 
- MONUMENT_27_NAME: "Victoria Falls"
+ MONUMENT_27_NAME: "Водопад Виктория"
  MONUMENT_27_DESC: "§Y$MONUMENT_27_NAME$§! is a waterfall on the Zambezi River in southern Africa, which provides habitat for several unique species of plants and animals. It is considered to be one of the world's largest waterfalls due to its width of 1,708 meters. David Livingstone, the Scottish missionary and explorer, is believed to have been the first European to view the falls on 16 November 1855, from what is now known as Livingstone Island, one of two land masses in the middle of the river, immediately upstream from the falls near the Zambian shore. Livingstone named his sighting in honour of Queen Victoria."
 
- MONUMENT_28_NAME: "Halle des Volkes"
+ MONUMENT_28_NAME: "Зал Народа"
  MONUMENT_28_DESC: "The §Y$MONUMENT_28_NAME$§! is a monumental domed building planned by Adolf Hitler and his architect Albert Speer. It is the center of government in the city of §Y$VICTORY_POINTS_6521$§!, with the office of the Führer situated within. From a towering podium within the main chamber, speakers can address up to more than 150,000 gathered people. Seating exists as three tiers enclosing a giant circular arena, while many thousands more may also be accommodated on the open floor. The building itself physically consists of a vast granite podium, and is iconic for its monumental dome that dominates the city's skyline, and rivals other such massive structures as the §Y$MONUMENT_29_NAME$§! in $VICTORY_POINTS_3878$. In front of the §Y$MONUMENT_28_NAME$§! sits the §Y$MONUMENT_15_NAME$§!."
 
- MONUMENT_29_NAME: "Empire State Building"
+ MONUMENT_29_NAME: "Эмпайр-стейт-билдинг"
  MONUMENT_29_DESC: "The §Y$MONUMENT_29_NAME$§! is a 102-story Art Deco skyscraper in Midtown Manhattan in $VICTORY_POINTS_3878$. It was built from 1930 to 1931. The building has a roof height of 380 meters and stands a total of 443.2 meters tall, including its antenna. Broadcasting began at the §Y$MONUMENT_29_NAME$§! on December 22, 1931, when NBC and RCA began transmitting experimental television broadcasts from a small antenna erected atop the mast, with two separate transmitters for the visual and audio data. They leased the 85th floor and built a laboratory there."
 
- MONUMENT_30_NAME: "Boulder Dam"
+ MONUMENT_30_NAME: "Плотина Гувера"
  MONUMENT_30_DESC: "§Y$MONUMENT_30_NAME$§! is a concrete arch-gravity dam in the Black Canyon of the Colorado River. It was constructed between 1931 and 1936 during the Great Depression and was dedicated on September 30, 1935, by President Franklin D. Roosevelt. Its construction was the result of a massive effort involving thousands of workers, and cost over one hundred lives. The dam's generators provide power for public and private utilities in [This.GetName], [377.GetName], and [378.GetName]."
 
- MONUMENT_31_NAME: "Grand Canyon"
+ MONUMENT_31_NAME: "Гранд-Каньон"
  MONUMENT_31_DESC: "The §Y$MONUMENT_31_NAME$§! is a steep-sided canyon carved by the Colorado River in [This.GetName]. It is 446 kilometers long, up to 29 kilometers wide and attains a depth of over 1,857 meters. For thousands of years, the area has been continuously inhabited by Native Americans, who built settlements within the canyon and its many caves. The Pueblo people considered the §Y$MONUMENT_31_NAME$§! a holy site, and made pilgrimages to it. §YGrand Canyon National Park§! was finally established as the 17th U.S. National Park by an Act of Congress signed into law by President Woodrow Wilson on February 26, 1919."
 
- MONUMENT_32_NAME: "Niagara Falls"
+ MONUMENT_32_NAME: "Ниагарский водопад"
  MONUMENT_32_DESC: "§Y$MONUMENT_32_NAME$§! is a group of three waterfalls at the southern end of Niagara Gorge. Flowing north as part of the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 meters. In 1853, the §YNiagara Falls Hydraulic Power and Mining Company§! was chartered, which eventually constructed the canals that would be used to generate electricity. In 1881 the Niagara River's first hydroelectric generating station was built."
 
- MONUMENT_33_NAME: "Acropolis"
+ MONUMENT_33_NAME: "Акрополь"
  MONUMENT_33_DESC: "The §Y$MONUMENT_33_NAME$§! is an ancient citadel located on a rocky outcrop above the city of $VICTORY_POINTS_4109$ and contains the remains of several ancient buildings of great architectural and historical significance, the most famous being the Parthenon. The Parthenon and the other buildings were seriously damaged during the 1687 siege by the Venetians during the Morean War when gunpowder being stored in the Parthenon by the Ottomans was hit by a cannonball and exploded."
 
- MONUMENT_34_NAME: "Ayers Rock"
+ MONUMENT_34_NAME: "Улуру"
  MONUMENT_34_DESC: "§Y$MONUMENT_34_NAME$§! is a large sandstone rock formation in the northern part of [This.GetName]. It lies 335 kilometers south west of the nearest large town, Alice Springs. §Y$MONUMENT_34_NAME$§! is sacred to the Aboriginal people of the area and is a popular destination for tourists."
 
- MONUMENT_35_NAME: "Angkor Wat"
+ MONUMENT_35_NAME: "Ангкор-Ват"
  MONUMENT_35_DESC: "§Y$MONUMENT_35_NAME$§! is the largest temple complex in the world by land area. The temple was built by Suryavarman II in the early 12th century in the capital of the Khmer Empire, as the state temple for the Empire. Originally constructed as a personal mausoleum for the Khmer King Suryavarman II, dedicated to Vishnu in the early 12th century, it was converted to a Buddhist Temple towards the end of 12th century. §Y$MONUMENT_35_NAME$§! combines two basic plans of Khmer temple architecture: the temple-mountain and the later galleried temple. It is designed to represent Mount Meru, home of the devas in Hindu and Buddhist cosmology. The temple is admired for the grandeur and harmony of its architecture, extensive bas-reliefs, and statues of Buddhas and Devas that adorn its walls."
 
- MONUMENT_36_NAME: "Hagia Sophia"
+ MONUMENT_36_NAME: "Собор Святой Софии"
  MONUMENT_36_DESC: "§Y$MONUMENT_36_NAME$§! is a Late Antique place of worship in $VICTORY_POINTS_9833$, designed by the Greek geometers Isidore of Miletus and Anthemius of Tralles. Built in 537 as the patriarchal cathedral of the imperial capital of Constantinople, it was the largest Christian church of the Eastern Roman Empire and the Eastern Orthodox Church, except during the Latin Empire from 1204 to 1261, when it became the city's Latin Catholic cathedral. In 1453, after the Fall of Constantinople to the Ottoman Empire, it was converted into a mosque."
 
- MONUMENT_37_NAME: "Chichén Itzá"
+ MONUMENT_37_NAME: "Чичен-Ица"
  MONUMENT_37_DESC: "§Y$MONUMENT_37_NAME$§! was one of the largest Maya cities and it was likely to have been one of the mythical great cities, or Tollans, referred to in later Mesoamerican literature. §Y$MONUMENT_37_NAME$§! was a major focal point in the Northern Maya Lowlands from the Late Classic (600–900) through the Terminal Classic (800–900) and into the early portion of the Postclassic period (900–1200). The site exhibits a multitude of architectural styles, reminiscent of styles seen in central Mexico and of the Puuc and Chenes styles of the Northern Maya lowlands."
 
- MONUMENT_38_NAME: "Kōtoku-in"
+ MONUMENT_38_NAME: "Котоку-ин"
  MONUMENT_38_DESC: "§Y$MONUMENT_38_NAME$§! is a Buddhist temple in the city of Kamakura. The temple is renowned for §YThe Great Buddha of Kamakura§!, a monumental outdoor bronze statue of Amitābha. According to temple records, the statue dates from around 1252, during the Kamakura period, which it is named after. It was preceded by a giant wooden Buddha, which was completed in 1243 after ten years of continuous labor, which was damaged by a storm in 1248."
 
- MONUMENT_39_NAME: "Potala Palace"
+ MONUMENT_39_NAME: "Дворец Потала"
  MONUMENT_39_DESC: "§Y$MONUMENT_39_NAME$§! is a dzong fortress in the city of $VICTORY_POINTS_5033$. It is the winter palace of the Dalai Lamas. It is named after Mount Potalaka, the mythical abode of the bodhisattva Avalokiteśvara. The fifth Dalai Lama started its construction in 1645. It may overlay the remains of an earlier fortress called the White or Red Palace on the site, built by Songtsen Gampo in 637."
 
  MONUMENT_40_NAME: "Sankoré Madrasah"
@@ -528,7 +528,7 @@
  MONUMENT_176_NAME: "Cologne Cathedral"
  MONUMENT_176_DESC: "§Y$MONUMENT_176_NAME$§! is a Catholic cathedral in $VICTORY_POINTS_587$ in [This.GetName]. At 157 meters currently the tallest twin-spired church in the world, it is a renowned monument of German Catholicism and Gothic architecture. It is the seat of the Archbishop of Cologne and of the administration of the Archdiocese of Cologne. Construction of §Y$MONUMENT_176_NAME$§! began in 1248 but was halted in the years around 1560, unfinished. Work did not restart until the 1840s, and the edifice was completed to its original Medieval plan in 1880."
 
- MONUMENT_177_NAME: "Kremlin"
+ MONUMENT_177_NAME: "Московский Кремль"
  MONUMENT_177_DESC: "The §Y$MONUMENT_177_NAME$§! is a fortified complex in the center of $VICTORY_POINTS_6380$ founded by Russian ruling dynasty of Rurikids. Within this complex is the Grand Kremlin Palace that was formerly the Tsar's Moscow residence. The complex now serves as the official residence of the political leader."
 
  MONUMENT_178_NAME: "Monasteries of Meteora"
