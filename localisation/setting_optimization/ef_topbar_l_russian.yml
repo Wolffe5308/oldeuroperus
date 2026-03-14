@@ -1,0 +1,21 @@
+﻿l_russian:
+ IB_switching_UI_decisions:0 "About topbar UI"
+ IB_switching_UI_decisions_desc:0 "If the newly added UI displaying the number of factories and the size of the army next to the experience value display on the screen is in the way, or if it clashes with the other UI due to screen resolution issues, you can switch the display by manipulating this decision."
+ IB_switching_IC:0 "Factory UI ON/OFF"
+ IB_switching_other:0 "Military UI ON/OFF"
+ IB_delete_this_decisions:0 "Delete this decisions"
+
+ IB_CIV_FAC_VAL:0 "[?ROOT.num_of_civilian_factories|0]"
+ IB_MIL_FAC_VAL:0 "[?ROOT.num_of_military_factories|0]"
+ IB_NAV_FAC_VAL:0 "[?ROOT.num_of_naval_factories|0]"
+ IB_NUM_OF_DIV:0 "[?ROOT.num_divisions|0]"
+ IB_DIV_TOOLTIP:0 "Own§H§!\n\n\n:[?ROOT.num_units_crossing_river|0+]\n:[?ROOT.num_battalions|0+]\n:[?ROOT.num_units_in_combat|0+]\n:[?ROOT.num_units_offensive_combats|0+]\n:[?ROOT.num_units_defensive_combats|0+]"
+ IB_NUM_OF_SHIP:0 "[?ROOT.num_ships|0]"
+ IB_SHIP_TOOLTIP:0 "§HNumber of ships§! by type in own country\n\nCV:[?ROOT.num_ships_with_type@carrier|0+]\nBB:[?ROOT.num_ships_with_type@battleship|0+]\nBC:[?ROOT.num_ships_with_type@battle_cruiser|0+]\nCL:[?ROOT.num_ships_with_type@light_cruiser|0+]\nDD:[?ROOT.num_ships_with_type@destroyer|0+]\nSS:[?ROOT.num_ships_with_type@submarine|0+]"
+
+ IB_RESOURCE_TRADE_OIL:0 "Current state of §Hoil§! resources\n\nAmount consumed:[?resource_consumed@oil|0-]\nAmount importing:[?resource_imported@oil|0-]"
+ IB_RESOURCE_TRADE_ALM:0 "Current state of §HAlminium§! resources\n\nAmount consumed:[?resource_consumed@aluminium|0-]\nAmount importing:[?resource_imported@aluminium|0-]"
+ IB_RESOURCE_TRADE_RUB:0 "Current state of §HRubber§! resources\n\nAmount consumed:[?resource_consumed@rubber|0-]\nAmount importing:[?resource_imported@rubber|0-]"
+ IB_RESOURCE_TRADE_TUN:0 "Current state of §HTungusten§! resources\n\nAmount consumed:[?resource_consumed@tungsten|0-]\nAmount importing:[?resource_imported@tungsten|0-]"
+ IB_RESOURCE_TRADE_STE:0 "Current state of §HSteel§! resources\n\nAmount consumed:[?resource_consumed@steel|0-]\nAmount importing:[?resource_imported@steel|0-]"
+ IB_RESOURCE_TRADE_CHR:0 "Current state of §HChromium§! resources\n\nAmount consumed:[?resource_consumed@chromium|0-]\nAmount importing:[?resource_imported@chromium|0-]"

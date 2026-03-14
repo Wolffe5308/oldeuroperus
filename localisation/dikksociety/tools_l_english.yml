@@ -1,0 +1,17 @@
+﻿l_english:
+
+ adm_limit_1:0 "§YYour administrative limit will be decreased by§! §R1§!."
+ adm_limit_2:0 "§YYour administrative limit will be increased by§! §G2§!."
+ adm_limit_3:0 "§YYour administrative limit will be increased by§! §G3§!."
+ adm_limit_5:0 "§YYour administrative limit will be increased by§! §G5§!."
+ adm_limit_7:0 "§YYour administrative limit will be increased by§! §G7§!."
+ adm_limit_10:0 "§YYour administrative limit will be increased by§! §G10§!."
+ adm_limit_15:0 "§YYour administrative limit will be increased by§! §G15§!."
+ adm_limit_20:0 "§YYour administrative limit will be increased by§! §G20§!."
+ adm_limit_50:0 "§YYour administrative limit will be increased by§! §G50§!."
+ adm_limit_100:0 "§YYour administrative limit will be increased by§! §G100§!."
+
+ increase_product_20:0 "Build §G20 guilds§!"
+ increase_product_70:0 "Build §G70 guilds§!"
+
+ decrease_product_15:0 "The number of guilds will decrease by §R15§!." 

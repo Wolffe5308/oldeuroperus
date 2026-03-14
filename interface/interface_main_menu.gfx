@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_RMK_logo"
+		texturefile = "gfx/interface/main_menu_gui/RMK_logo.dds"
+	}
+}

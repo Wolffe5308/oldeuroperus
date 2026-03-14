@@ -1,0 +1,56 @@
+﻿l_english:
+
+ hashashin.1.t:0 "Secret Invasion"
+ hashashin.1.desc:0 "The imperious bandits running [FROM.GetNameDef] have demanded we immediately surrender the our territory over to them under threat of war. We cannot say that we are surprised by this decision by the [FROM.GetAdjective] vultures, but that does not make our situation any less precarious.\n\nWe must decide whether we are prepared to surrender our land to the [FROM.GetAdjective]s in the hopes of avoiding war or if we are willing to try to permanently cast [FROM.GetNameDef] back into the annals of history where they should have stayed."
+ hashashin.1.a:0 "It is not worth the fight."
+ hashashin.1.b:0 "It is well past time to dismantle the assassins permanently."
+
+ hashashin.2.t:0 "[FROM.GetNameDefCap] Denies Us!"
+ hashashin.2.desc:0 "The fools in [FROM.GetNameDef] have rejected our perfectly reasonable demand that our former territory be returned to its rightful owner. This leaves us with only one course of action: war!"
+ hashashin.2.a:0 "Their impudence shall be met with our scimitars."
+ 
+ hashashin.3.t:0 "Our Territories Are Ours!"
+ hashashin.3.desc:0 "The weaklings of [FROM.GetNameDef] have demonstrated some uncharacteristic wisdom in their decision to return our Lands to us without necessitating violence."
+ hashashin.3.a:0 "Welcome back to the Empire!" 
+
+ hashashin.4.t:0 "Our Overlord Denies Us"
+ hashashin.4.desc:0 "Our Overlord have demonstrated some uncharacteristic wisdom in their decision to not return our Lands."
+ hashashin.4.a:0 "Unacceptable" 
+
+ hashashin.5.t:0 "Demand of Gilan"
+ hashashin.5.desc:0 "Hashashis need more lands to increase their power and economy."
+ hashashin.5.a:0 "Donate to our Ally" 
+ hashashin.5.b:0 "No!" 
+ 
+ hashashin.6.t:0 "Demand of Azerbaijan"
+ hashashin.6.desc:0 "Hashashis need more lands to increase their power and economy."
+ hashashin.6.a:0 "Donate to our Ally" 
+ hashashin.6.b:0 "No!" 
+ 
+ hashashin.7.t:0 "Demand of Georgia"
+ hashashin.7.desc:0 "Hashashis need more lands to increase their power and economy."
+ hashashin.7.a:0 "Donate to our Ally" 
+ hashashin.7.b:0 "No!" 
+
+ hashashin.8.t:0 "Demand of Armenia"
+ hashashin.8.desc:0 "Hashashis need more lands to increase their power and economy."
+ hashashin.8.a:0 "Donate to our Ally" 
+ hashashin.8.b:0 "No!" 
+
+ hashashin.9.t:0 "Demand of Tibriz"
+ hashashin.9.desc:0 "Hashashis need more lands to increase their power and economy."
+ hashashin.9.a:0 "Donate to our Ally" 
+ hashashin.9.b:0 "No!" 
+
+ hashashin.10.t:0 "§WOffer of Alliance!"
+ hashashin.10.desc:0 "Austria offers us an alliance. Together, we will create a strong political bloc that can stand up to our neighbors."
+ hashashin.10.a:0 "We agree."
+ hashashin.10.b:0 "We won't join"
+
+ hashashin_news.1.a:0 "We are stronger together"
+ hashashin_news.1.t:0 "§WRequest Accepted"
+ hashashin_news.1.d:0 "In a significant development, the long-pending request for a strategic partnership has been officially accepted, marking a new era of collaboration between the two parties. After months of negotiations, both sides reached a mutual agreement, paving the way for joint initiatives that are expected to benefit multiple sectors. "
+
+ hashashin_news.2.a:0 "We have new enemies"
+ hashashin_news.2.t:0 "§WRequest Rejected"
+ hashashin_news.2.d:0 "In a surprising move, the long-awaited request for a strategic partnership has been officially rejected, leaving both parties at a standstill. Sources close to the negotiations revealed that despite months of discussions and anticipation, key terms could not be agreed upon, ultimately leading to the decision to walk away from the deal."

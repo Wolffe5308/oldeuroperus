@@ -1,0 +1,23 @@
+guiTypes = {
+	containerWindowType = {
+		name ="mainmenu_panel_upperleft"
+		position = { x=0 y =-1 }
+		show_position = { x=0 y =-1 }
+		animation_type = decelerated
+		size = { width = 256 height = 768 }
+
+		iconType = {
+			name ="frontend_game_logo"
+			spriteType = "GFX_frontend_game_logo"
+			position = { x= 20 y = 20 }
+		}
+		ButtonType = {
+			name ="frontend_RMK_logo"
+			spriteType = "GFX_RMK_logo"
+			position = { x = 1700 y = -20 }
+			clicksound = click_default
+			pdx_tooltip = "GA_MAIN_MENU_LINK"
+			web_link = "https://discord.gg/Yn4NpKUHaV"
+		}
+	}
+}

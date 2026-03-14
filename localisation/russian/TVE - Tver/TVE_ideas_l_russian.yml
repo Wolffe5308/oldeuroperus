@@ -1,0 +1,16 @@
+﻿l_russian:
+
+#FACTION
+faction_brotherhood_crescent:0 "Братство Полумесяца"
+
+#DYNAMIC MODIFIER IDEA
+TVE_create_volga_trade_routes:0 "Установить торговые маршруты §3Волга§!"
+TVE_modify_volga_trade_routes_by:0 "Изменить §YТорговые маршруты Волги§! by"
+TVE_volga_trade_routes:0 "Волжские торговые пути"
+
+#IDEAS
+TVE_princely_ambitions:0 "Княжеские амбиции"
+TVE_steppe_heritage:0 "Степное наследие"
+TVE_tvers_vigilance:0 "Проявляет бдительность"
+TVE_sacred_traditions:0 "Священные традиции"
+TVE_orthodox_clergy:0 "Православное духовенство"
