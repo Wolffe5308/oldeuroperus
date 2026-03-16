@@ -340,8 +340,8 @@
  monument_construction_mission_5: "§Y[?monument_construction_state_5.GetName]§!: $MONUMENT_MISSION_NAME_CONSTRUCTION$"
  monument_construction_mission_5_desc: "$MONUMENT_MISSION_NAME_CONSTRUCTION_DESC$ §Y[?monument_construction_state_5.GetName]§!."
 
- monument_decision_reduce_construction_time: "Use Government Factories for Monument Constructions"
- monument_decision_reduce_construction_time_desc: "Using our factories for the construction of monuments would help us completing them faster, however it would also take them away from possible other important projects."
+ monument_decision_reduce_construction_time: "Использовать государственные фабрики для строительства памятников"
+ monument_decision_reduce_construction_time_desc: "Использование наших фабрик для возведения памятников помогло бы нам завершить их быстрее, но при этом отвлечёт ресурсы от других важных проектов."
 
  # Modifiers:
  monument_construction_time: "Monument Construction Time"
