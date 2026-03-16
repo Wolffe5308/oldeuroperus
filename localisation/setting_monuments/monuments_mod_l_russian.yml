@@ -328,7 +328,7 @@
  MONUMENT_MISSION_NAME_CONSTRUCTION_DESC: "A monument is currently under construction in"
 
  # Decisions:
- monuments_decisions: "Monument Decisions"
+ monuments_decisions: "Решения о памятниках"
  monument_construction_mission_1: "§Y[?monument_construction_state_1.GetName]§!: $MONUMENT_MISSION_NAME_CONSTRUCTION$"
  monument_construction_mission_1_desc: "$MONUMENT_MISSION_NAME_CONSTRUCTION_DESC$ §Y[?monument_construction_state_1.GetName]§!."
  monument_construction_mission_2: "§Y[?monument_construction_state_2.GetName]§!: $MONUMENT_MISSION_NAME_CONSTRUCTION$"
