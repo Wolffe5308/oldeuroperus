@@ -1,0 +1,203 @@
+﻿l_russian:
+
+ formable_nations_mod_category:0 "Формирование новой страны"
+
+ form_aztec:0 "Ацтекская империя"
+ form_ireland:0 "Ирландия"
+ form_spain:0 "Испанская империя"
+ form_italy:0 "Италия"
+ form_inca:0 "Империя инков"
+ form_rus:0 "Российская империя"
+ form_abasid:0 "Аббасидская империя"
+ form_hre:0 "Священная Римская империя"
+ form_ukk:0 "Великобритания"
+ form_nederland:0 "Республика Соединённых Провинций"
+ form_philippines:0 "Филиппины"
+ form_scandinavia:0 "Скандинавия"
+ form_sibir:0 "Сибирская империя"
+ form_commonwealth:0 "Речь Посполитая"
+ form_germany:0 "Германская империя"
+ form_austrian_empire:0 "Австрийская империя"
+ form_austria_hungarian_empire:0 "Австро-Венгерская империя"
+ form_dacia:0 "Дакия"
+ form_turkish_rum:0 "Сельджукская империя"
+ form_ottoman_empire:0 "Османская империя"
+ form_great_moravia:0 "Великая Моравия"
+ form_kievan_rus:0 "Киевская Русь"
+ form_arabia:0 "Королевство Аравия"
+ form_mughal:0 "Империя Великих Моголов"
+ form_india:0 "Индостан"
+ form_karamanid_ottoman_empire:0 "Османская империя"
+ form_karaman_empire:0 "Караманская империя"
+ form_tver_novgorod_duchy:0 "Великое княжество Тверское и Новгородское"
+ form_tverian_tsardom:0 "Тверское царство"
+ form_golden_caliphate:0 "Золотой Халифат"
+ form_greater_mali:0 "Объединенная Империя Мали"
+ form_hittite:0 "Хеттская империя"
+ form_visigots:0 "Вестготы"
+ form_timurids:0 "Империя Тимуридов"
+ form_turkestan:0 "Великий Туркестан"
+ form_qing:0 "Империя Цин"
+ form_ismaili_caliphate:0 "Фатимидский халифат"
+ form_nizari_imamate:0 "Имамат Низари"
+ form_fifth_sun_empire:0 "Империя Пятого Солнца"
+ form_polish_empire:0 "Польская империя"
+ form_great_lechia:0 "Великая Лехия"
+
+ ismaili_caliphate_formed_available_effect:0 "Контролирует все провинции Фатимидский халифата."
+ ismaili_caliphate_formed_complete_effect:0 "Все провинции Фатимидского халифата будут интегрированы."
+ nizari_imamate_formed_available_effect:0 "Контролирует все провинции Низаритского имамата."
+ nizari_imamate_formed_complete_effect:0 "Все провинции Низаритского Имамата будут интегрированы."
+
+### COUNTRIES
+
+ FORM_GERMANY:0 "Германская империя"
+ FORM_GERMANY_DEF:0 "Германская империя"
+ FORM_GERMANY_ADJ:0 "Германск."
+
+ FORM_ANGEVIN:0 "Анжуйская империя"
+ FORM_ANGEVIN_DEF:0 "Анжуйская империя"
+ FORM_ANGEVIN_ADJ:0 "Анжуйск."
+
+ FORM_AUSTRIAN_EMPIRE:0 "Австрийская империя"
+ FORM_AUSTRIAN_EMPIRE_DEF:0 "Австрийская империя"
+ FORM_AUSTRIAN_EMPIRE_ADJ:0 "Австрийск."
+
+ FORM_AUSTRIA_HUNGARY:0 "Австро-Венгерская империя"
+ FORM_AUSTRIA_HUNGARY_DEF:0 "Австро-Венгерская империя"
+ FORM_AUSTRIA_HUNGARY_ADJ:0 "Австро-Венгерск."
+
+ FORM_RUS:0 "Российская империя"
+ FORM_RUS_DEF:0 "Российская империя"
+ FORM_RUS_ADJ:0 "Российск."
+
+ FORM_SPAIN:0 "Испанская империя"
+ FORM_SPAIN_DEF:0 "Испанская империя"
+ FORM_SPAIN_ADJ:0 "Испанск."
+
+ FORM_DACIA:0 "Дакия"
+ FORM_DACIA_DEF:0 "Дакия"
+ FORM_DACIA_ADJ:0 "Дакийск."
+ 
+ FORM_RUM:0 "Сельджукская империя"
+ FORM_RUM_DEF:0 "Сельджукская империя"
+ FORM_RUM_ADJ:0 "Сельджукск." 
+
+ FORM_MORAVIA:0 "Великая Моравия"
+ FORM_MORAVIA_DEF:0 "Великая Моравия"
+ FORM_MORAVIA_ADJ:0 "Моравийск." 
+
+ FORM_HOLY_ROMAN:0 "Священная Римская империя"
+ FORM_HOLY_ROMAN_DEF:0 "Священная Римская империя"
+ FORM_HOLY_ROMAN_ADJ:0 "Римск."
+
+ FORM_KIEVAN_RUS:0 "Киевская Русь"
+ FORM_KIEVAN_RUS_DEF:0 "Киевская Русь"
+ FORM_KIEVAN_RUS_ADJ:0 "Киевск."
+
+ FORM_SCANDINAVIA:0 "Королевство Скандинавия"
+ FORM_SCANDINAVIA_DEF:0 "Королевство Скандинавия"
+ FORM_SCANDINAVIA_ADJ:0 "Скандинавск." 
+
+ FORM_ARABIA:0 "Королевство Аравия"
+ FORM_ARABIA_DEF:0 "Королевство Аравия"
+ FORM_ARABIA_ADJ:0 "Арабск."
+
+ FORM_MUGHAL_EMPIRE:0 "Империя Великих Моголов"
+ FORM_MUGHAL_EMPIRE_DEF:0 "Империя Великих Моголов"
+ FORM_MUGHAL_EMPIRE_ADJ:0 "Могольск."
+
+ FORM_INDIA:0 "Индостан"
+ FORM_INDIA_DEF:0 "Индостан"
+ FORM_INDIA_ADJ:0 "Индостанск."
+
+ FORM_OTTOMAN_KARAMAN:0 "Османская империя"
+ FORM_OTTOMAN_KARAMAN_DEF:0 "Османская империя"
+ FORM_OTTOMAN_KARAMAN_ADJ:0 "Османск." 
+
+ FORM_KARAMAN_EMPIRE:0 "Караманская империя"
+ FORM_KARAMAN_EMPIRE_DEF:0 "Караманская империя"
+ FORM_KARAMAN_EMPIRE_ADJ:0 "Караманск." 
+
+ FORM_TVER_NOVGOROD_DUCHY:0 "Великое княжество Тверское и Новгородское"
+ FORM_TVER_NOVGOROD_DUCHY_DEF:0 "Великое княжество Тверское и Новгородское"
+ FORM_TVER_NOVGOROD_DUCHY_ADJ:0 "Российск."
+
+ FORM_TVERIAN_TSARDOM:0 "Тверское царство"
+ FORM_TVERIAN_TSARDOM_DEF:0 "Тверское царство"
+ FORM_TVERIAN_TSARDOM_ADJ:0 "Тверск."  
+
+ FORM_GOLDEN_CALIPHATE:0 "Золотой Халифат"
+ FORM_GOLDEN_CALIPHATE_DEF:0 "Золотой Халифат"
+ FORM_GOLDEN_CALIPHATE_ADJ:0 "Малийск."
+
+ FORM_GREATER_MALI:0 "Объединенная Империя Мали"
+ FORM_GREATER_MALI_DEF:0 "Объединенная Империя Мали"
+ FORM_GREATER_MALI_ADJ:0 "Малийск."  
+ 
+ FORM_HITTITE:0 "Хеттская империя"
+ FORM_HITTITE_DEF:0 "Хеттская империя"
+ FORM_HITTITE_ADJ:0 "Хеттск."
+
+ FORM_VISIGOTH:0 "Вестготское королевство"
+ FORM_VISIGOTH_DEF:0 "Вестготское королевство"
+ FORM_VISIGOTH_ADJ:0 "Вестготск."
+
+ FORM_TIMURIDS:0 "Империя Тимуридов"
+ FORM_TIMURIDS_DEF:0 "Империя Тимуридов"
+ FORM_TIMURIDS_ADJ:0 "Тимуридск."
+
+ FORM_GREAT_TURKESTAN:0 "Великий Туркестан"
+ FORM_GREAT_TURKESTAN_DEF:0 "Великий Туркестан"
+ FORM_GREAT_TURKESTAN_ADJ:0 "Туркестанск."
+
+ FORM_QING_EMPIRE:0 "Империя Цин"
+ FORM_QING_EMPIRE_DEF:0 "Империя Цин"
+ FORM_QING_EMPIRE_ADJ:0 "Цинск."
+
+ FORM_ISMAILI_CALIPHATE:0 "Фатимидский халифат"
+ FORM_ISMAILI_CALIPHATE_DEF:0 "Фатимидский халифат"
+ FORM_ISMAILI_CALIPHATE_ADJ:0 "Фатимидск."
+
+ FORM_NIZARI_IMAMATE:0 "Имамат Низари"
+ FORM_NIZARI_IMAMATE_DEF:0 "Имамат Низари"
+ FORM_NIZARI_IMAMATE_ADJ:0 "Низарийск."
+
+ FORM_FIFTH_SUN_EMPIRE:0 "Империя Пятого Солнца"
+ FORM_FIFTH_SUN_EMPIRE_DEF:0 "Империя Пятого Солнца"
+ FORM_FIFTH_SUN_EMPIRE_ADJ:0 "Ацтекск."
+
+ FORM_POLISH_EMPIRE:0 "Польская империя"
+ FORM_POLISH_EMPIRE_DEF:0 "Польская империя"
+ FORM_POLISH_EMPIRE_ADJ:0 "Польск." 
+
+ FORM_POLISH_LITHUANIAN_COMMONWEALTH:0 "Речь Посполитая"
+ FORM_POLISH_LITHUANIAN_COMMONWEALTH_DEF:0 "Речь Посполитая"
+ FORM_POLISH_LITHUANIAN_COMMONWEALTH_ADJ:0 "Речь Посполитск."
+
+ FORM_GREAT_LECHIA:0 "Великая Лехия"
+ FORM_GREAT_LECHIA_DEF:0 "Великая Лехия"
+ FORM_GREAT_LECHIA_ADJ:0 "Польск." 
+
+ ### EVENT FORMABLES ###
+
+ FORM_GREAT_HORDE:0 "Великая Орда"
+ FORM_GREAT_HORDE_DEF:0 "Великая Орда"
+ FORM_GREAT_HORDE_ADJ:0 "Монгольск."
+
+ FORM_UZBEK_KHANATE:0 "Узбекское ханство"
+ FORM_UZBEK_KHANATE_DEF:0 "Узбекское ханство"
+ FORM_UZBEK_KHANATE_ADJ:0 "Узбекск." 
+
+ FORM_MANCHURIA:0 "Маньчжурия"
+ FORM_MANCHURIA_DEF:0 "Маньчжурия"
+ FORM_MANCHURIA_ADJ:0 "Маньчжурск." 
+
+ FORM_OTTOMAN_ROME:0 "Румский султанат"
+ FORM_OTTOMAN_ROME_DEF:0 "Румский султанат"
+ FORM_OTTOMAN_ROME_ADJ:0 "Румск." 
+
+ FORM_FRANKISH_EMPIRE:0 "Империя Франков"
+ FORM_FRANKISH_EMPIRE_DEF:0 "Империя Франков"
+ FORM_FRANKISH_EMPIRE_ADJ:0 "Франкск." 
+ 
