@@ -16,6 +16,7 @@
  new_iq_level:0 "Слаборазвитое племя"
  Regions:0 "Регионов"
  Workshops:0 "Мастерских"
+ weapon_buy_category:0 "Покупка оружия"
  weapon:0 "Купить мечи"
  weapon_s:0 "Продать мечи"
  manpower:0 "Нанять наёмников"
