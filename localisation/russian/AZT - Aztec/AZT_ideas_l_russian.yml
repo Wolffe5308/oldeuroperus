@@ -1,0 +1,12 @@
+﻿l_russian:
+
+  #TRAITS
+  AZT_blood_emperor:0 "Кровавый Император"
+
+  #DYNAMIC MODIFIER IDEAS
+  AZT_create_aztec_warrior:0 "Добавляется §RОрлиные воины§!"
+  AZT_modify_aztec_warrior_by:0 "Изменится §YОрлиные воины§! на"
+  AZT_aztec_warrior:0 "Орлиные воины"
+  AZT_create_aztec_sacrifice:0 "Добавляется §3Жертвенная доблесть§!"
+  AZT_modify_aztec_sacrifice_by:0 "Изменится §YЖертвенная доблесть§! на"
+  AZT_aztec_sacrifice:0 "Жертвенная доблесть"
