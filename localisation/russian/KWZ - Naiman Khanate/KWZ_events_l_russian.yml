@@ -1,41 +1,41 @@
-﻿l_english:
+﻿l_russian:
 
-  naiman.1.t:0 "Naiman Petition: Consolidate Authority"
-  naiman.1.desc:0 "Envoys from the Naiman arrive with a formal petition. They ask us to recognize their initiative and lend our weight to reshaping court politics in their favor—edicts, appointments, and decrees that would strengthen their hand and quiet dissent. Backing them now would signal that the balance of power is shifting."
-  naiman.1.a:0 "We Accepted"
-  naiman.1.b:0 "It is Denied"
+  naiman.1.t:0 "Прошение найманов: укрепить власть"
+  naiman.1.desc:0 "Послы Найманского Ханства прибыли с официальным прошением. Они просят признать их инициативу и использовать наше влияние, чтобы изменить придворную политику в их пользу — указами, назначениями и декретами, которые укрепят их положение и подавят инакомыслие. Поддержка их сейчас станет сигналом о том, что баланс сил меняется."
+  naiman.1.a:0 "Мы согласны"
+  naiman.1.b:0 "У нас есть дела получше"
 
-  naiman.2.t:0 "Naiman Petition: Expand the Smelting Works"
-  naiman.2.desc:0 "The Naiman request technical aid and supplies to raise new smelting sites. They promise steady flows of ore and labor if we dispatch foremen and craftsmen to oversee construction. Such works would feed our forges—and their ambitions."
-  naiman.2.a:0 "We Accepted"
-  naiman.2.b:0 "It is Denied"
+  naiman.2.t:0 "Прошение найманов: расширить плавильни"
+  naiman.2.desc:0 "Найманы просят техническую помощь и припасы для строительства новых плавилен. Они обещают стабильные поставки руды и рабочей силы, если мы направим мастеров и ремесленников им на помощь. Эти предприятия будут кормить наши кузницы — и их амбиции."
+  naiman.2.a:0 "Мы согласны"
+  naiman.2.b:0 "Сами справятся"
 
-  naiman.3.t:0 "Naiman Petition: Armories and Workshops"
-  naiman.3.desc:0 "Seeking to quicken their industrial growth, the Naiman propose a joint effort to establish workshops and armories in their controlled towns. With our sanction and material, construction could begin at once, strengthening both their economy and our supply lines."
-  naiman.3.a:0 "We Accepted"
-  naiman.3.b:0 "It is Denied"
+  naiman.3.t:0 "Прошение найманов: оружейные и мастерские"
+  naiman.3.desc:0 "Стремясь ускорить свой промышленный рост, найманы предлагают совместными усилиями построить мастерские и оружейные в подконтрольных им городах. С нашей рабочей силой и материалами строительство может начаться незамедлительно, что укрепит как их экономику, так и нашу казну."
+  naiman.3.a:0 "Мы согласны"
+  naiman.3.b:0 "Кто их сюда пустил?"
 
-  naiman.4.t:0 "Naiman Petition: A Marriage Alliance"
-  naiman.4.desc:0 "Envoys from the Naiman approach with a bold request: the hand of a Chagatai princess in marriage to Taraghai Noyan. Such a union would bind our houses together, seal loyalties with blood, and grant the Naiman newfound legitimacy among the steppe lords. Yet, the weight of this proposal could shift the balance of power for generations."
-  naiman.4.a:0 "We Accept the union."
-  naiman.4.b:0 "We Deny the request."   
+  naiman.4.t:0 "Прошение найманов: династический брак"
+  naiman.4.desc:0 "Послы от найманов обращаются с дерзкой просьбой: выдать чингизидскую принцессу замуж за Тарагай-нойона. Такой союз свяжет наши дома, скрепит верность кровью и дарует найманам новую легитимность в глазах степных властителей. Однако вес этого предложения может сместить баланс сил на поколения вперёд."
+  naiman.4.a:0 "Мы согласны."
+  naiman.4.b:0 "Не бывать этому!"   
 
-  naiman.5.t:0 "Request Denied"
-  naiman.5.desc:0 "Our emissaries return with grim news. The request we sent has been firmly rejected. No concessions were offered, and the door to further negotiations seems closed."
-  naiman.5.a:0 "A disappointing outcome."
+  naiman.5.t:0 "Отказ"
+  naiman.5.desc:0 Наши послы возвращаются с мрачными вестями. Наш запрос был решительно отклонён. Никаких уступок предложено не было, и дверь для дальнейших переговоров, похоже, закрылась.
+  naiman.5.a:0 "Досадно."
 
-  naiman.6.t:0 "Petition Granted: Authority Consolidated"
-  naiman.6.desc:0 "We have answered the Naiman’s petition with firm support. Decrees are issued, allies rewarded, and councils rebalanced. Momentum gathers at court, and the mandate to act grows stronger by the day."
-  naiman.6.a:0 "See it done."
+  naiman.6.t:0 "Прошение удовлетворено: власть укреплена"
+  naiman.6.desc:0 "Наше прошение встретили решительной поддержкой. Выпущены указы, ханство вознаграждено, советы переустроены. При дворе усиливается влияние, а карт-бланш на решительные действия крепнет с каждым днём."
+  naiman.6.a:0 Да будет так.
 
-  naiman.7.t:0 "Petition Granted: New Smelting Sites"
-  naiman.7.desc:0 "Overseers depart with craftsmen and stockpiled tools. Within days, earth is broken and the first fires are kindled. The roar of bellows will soon feed our foundries with fresh ingots."
-  naiman.7.a:0 "Begin construction."
+  naiman.7.t:0 "Прошение удовлетворено: новые плавильни"
+  naiman.7.desc:0 "Надзиратели отправляются в путь с ремесленниками и запасёнными инструментами. В считанные дни земляные работы завершены, первые печи зажжены. Рёв мехов вскоре начнёт питать наши литейные свежей рудой."
+  naiman.7.a:0 "Нам ещё многое предстоит."
   
-  naiman.8.t:0 "Petition Granted: Foundries and Workshops"
-  naiman.8.desc:0 "Sites are selected, plans drawn, and timber and stone hauled into place. New workshops rise beside armories, each ready to turn raw materials into the sinews of power."
-  naiman.8.a:0 "Break ground."
+  naiman.8.t:0 "Прошение удовлетворено: оружейные и мастерские"
+  naiman.8.desc:0 "Участки выбраны, чертежи составлены, ресурсы доставлены на место. Новые мастерские вырастают рядом с оружейными, каждая готовая превращать сырьё в опору власти."
+  naiman.8.a:0 "Да поможет нам Аллах."
 
-  naiman.9.t:0 "Alliance Forged by Marriage"
-  naiman.9.desc:0 "The betrothal is sealed. Couriers carry word across the steppes: Taraghai Noyan has wed a princess of the Chagatai, joining bloodlines and forging a bond between our realms. With this union, whispers spread of a future yet unseen—the foundation upon which Timur’s destiny will be built."
-  naiman.9.a:0 "A new age begins."
+  naiman.9.t:0 "Династический союз"
+  naiman.9.desc:0 "Помолвка заключена. Гонцы развозят весть по степи: Тарагай-нойон взял в жёны Чагатайскую царевну, соединив кровные линии и скрепив союз между нашими государствами. С этим браком расходятся слухи о грядущем — о том основании, на котором будет воздвигнута судьба Тамерлана."
+  naiman.9.a:0 "Начало новой эпохи."
