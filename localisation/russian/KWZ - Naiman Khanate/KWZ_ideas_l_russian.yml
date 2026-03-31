@@ -1,0 +1,15 @@
+﻿l_english:
+
+  #TRAITS
+  architect_of_conquest:0 "Architect of Conquest"
+  architect_of_prosperity:0 "Architect of Prosperity"
+
+  #DYNAMIC MODIFIER IDEAS
+  KWZ_create_power_of_timurids:0 "Restablish the §3Power of Timurids§!"
+  KWZ_modify_power_of_timurids_by:0 "Modify §YPower of Timurids§! by"
+  KWZ_power_of_timurids:0 "Power of Timurids"
+  
+  #IDEAS
+  KWZ_united_under_islam:0 "United Under Islam"
+  KWZ_reclaimed_identity:0 "Reclaimed Identity"
+  KWZ_turkic_traditions:0 "Turkic Traditions"

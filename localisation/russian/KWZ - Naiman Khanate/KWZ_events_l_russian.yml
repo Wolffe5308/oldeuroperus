@@ -1,0 +1,41 @@
+﻿l_english:
+
+  naiman.1.t:0 "Naiman Petition: Consolidate Authority"
+  naiman.1.desc:0 "Envoys from the Naiman arrive with a formal petition. They ask us to recognize their initiative and lend our weight to reshaping court politics in their favor—edicts, appointments, and decrees that would strengthen their hand and quiet dissent. Backing them now would signal that the balance of power is shifting."
+  naiman.1.a:0 "We Accepted"
+  naiman.1.b:0 "It is Denied"
+
+  naiman.2.t:0 "Naiman Petition: Expand the Smelting Works"
+  naiman.2.desc:0 "The Naiman request technical aid and supplies to raise new smelting sites. They promise steady flows of ore and labor if we dispatch foremen and craftsmen to oversee construction. Such works would feed our forges—and their ambitions."
+  naiman.2.a:0 "We Accepted"
+  naiman.2.b:0 "It is Denied"
+
+  naiman.3.t:0 "Naiman Petition: Armories and Workshops"
+  naiman.3.desc:0 "Seeking to quicken their industrial growth, the Naiman propose a joint effort to establish workshops and armories in their controlled towns. With our sanction and material, construction could begin at once, strengthening both their economy and our supply lines."
+  naiman.3.a:0 "We Accepted"
+  naiman.3.b:0 "It is Denied"
+
+  naiman.4.t:0 "Naiman Petition: A Marriage Alliance"
+  naiman.4.desc:0 "Envoys from the Naiman approach with a bold request: the hand of a Chagatai princess in marriage to Taraghai Noyan. Such a union would bind our houses together, seal loyalties with blood, and grant the Naiman newfound legitimacy among the steppe lords. Yet, the weight of this proposal could shift the balance of power for generations."
+  naiman.4.a:0 "We Accept the union."
+  naiman.4.b:0 "We Deny the request."   
+
+  naiman.5.t:0 "Request Denied"
+  naiman.5.desc:0 "Our emissaries return with grim news. The request we sent has been firmly rejected. No concessions were offered, and the door to further negotiations seems closed."
+  naiman.5.a:0 "A disappointing outcome."
+
+  naiman.6.t:0 "Petition Granted: Authority Consolidated"
+  naiman.6.desc:0 "We have answered the Naiman’s petition with firm support. Decrees are issued, allies rewarded, and councils rebalanced. Momentum gathers at court, and the mandate to act grows stronger by the day."
+  naiman.6.a:0 "See it done."
+
+  naiman.7.t:0 "Petition Granted: New Smelting Sites"
+  naiman.7.desc:0 "Overseers depart with craftsmen and stockpiled tools. Within days, earth is broken and the first fires are kindled. The roar of bellows will soon feed our foundries with fresh ingots."
+  naiman.7.a:0 "Begin construction."
+  
+  naiman.8.t:0 "Petition Granted: Foundries and Workshops"
+  naiman.8.desc:0 "Sites are selected, plans drawn, and timber and stone hauled into place. New workshops rise beside armories, each ready to turn raw materials into the sinews of power."
+  naiman.8.a:0 "Break ground."
+
+  naiman.9.t:0 "Alliance Forged by Marriage"
+  naiman.9.desc:0 "The betrothal is sealed. Couriers carry word across the steppes: Taraghai Noyan has wed a princess of the Chagatai, joining bloodlines and forging a bond between our realms. With this union, whispers spread of a future yet unseen—the foundation upon which Timur’s destiny will be built."
+  naiman.9.a:0 "A new age begins."

@@ -1,0 +1,23 @@
+﻿l_english:
+
+	royal_gift:0 "Royal Gift"
+
+  KWZ_army_culture_decision:0 "Army Culture"
+  unlock_timurids_power_decision:0 "§6This will unlock the decisions about improving the Army Culture.§!"
+  unlock_timurids_power_decision_2:0 "§7This will unlock more decisions about improving the Army Culture.§!"
+  
+  KWZ_improve_offensive_culture:0 "Improve Offensive Culture"
+  KWZ_improve_defensive_culture:0 "Improve Defensive Culture"
+  KWZ_establish_military_structure:0 "Establish Military Structure"
+
+  KWZ_military_structure_established:0 "Military Structure Established"
+  KWZ_age_of_tamerlane:0 "Age of Tamerlane Started"
+  KWZ_princess_pregnant_cooldown:0 "Princess is Pregnant"
+  KWZ_tamerlane_is_growing:0 "Tamarlane is Growing"
+  KWZ_tamerlane_is_growing_tt:0 "Tamarlane is Growing, it will take §Y12 years§! until he can take the country"
+
+  KWZ_construct_cultural_capital:0 "Establish the Cultural Capital"
+  KWZ_construct_cultural_administration_west:0 "Form the Western Cultural Administration"
+  KWZ_construct_cultural_administration_northwest:0 "Form the Northwestern Cultural Administration"
+  KWZ_construct_cultural_administration_east:0 "Form the Eastern Cultural Administration"
+  KWZ_construct_cultural_administration_northeast:0 "Form the Northeastern Cultural Administration"
