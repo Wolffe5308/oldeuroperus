@@ -5,5 +5,5 @@ tags={
 name="Dikk Society: Old Europe (RUS)"
 picture="thumbnail.png"
 supported_version="1.17.3"
-path="C:/Users/GERMAN/Documents/Paradox Interactive/Hearts of Iron IV/mod/oldeuroperus"
+path="mod/oldeuroperus"
 remote_file_id="3602118921"
