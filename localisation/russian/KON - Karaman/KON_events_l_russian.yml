@@ -1,0 +1,15 @@
+﻿l_english:
+
+  karamanids.1.t:0 "§WProposal for Alliance!"
+  karamanids.1.desc:0 "The Beylik of Karaman has extended a proposal for an alliance. With our combined strength, we can dominate Anatolia and stand against external threats. Should we accept their offer?"
+  karamanids.1.a:0 "We agree."
+  karamanids.1.b:0 "We decline."
+
+  karamanids_news.1.a:0 "Anatolia United!"
+  karamanids_news.1.t:0 "§WAlliance Accepted"
+  karamanids_news.1.d:0 "The Ottomans have accepted Karaman's proposal, forming a strong political and military pact to reshape Anatolia."
+
+  karamanids_news.2.a:0 "A lonely road ahead..."
+  karamanids_news.2.t:0 "§WAlliance Rejected"
+  karamanids_news.2.d:0 "The Ottomans have rejected Karaman’s proposal, signaling a potential rivalry in Anatolia's future."
+  

@@ -1,0 +1,21 @@
+﻿l_english:
+
+#FACTION
+faction_brotherhood_crescent:0 "Brotherhood of the Crescent"
+
+#TRAITS
+arabic_roots:0 "Arabic Roots"
+turkish_legacy:0 "Turkish Legacy"
+
+#DYNAMIC MODIFIER IDEA
+KON_create_gazi_order:0 "Restablish the §3Gazi Order§!"
+KON_modify_gazi_order_by:0 "Modify §YGazi Order§! by"
+KON_gazi_order:0 "Gazi Order"
+
+#IDEAS
+KON_fear_of_mamluks:0 "Fear of Mamluks"
+KON_unorganized_governance:0 "Unorganized Governance"
+KON_organized_governance:0 "Organized Governance"
+KON_full_mobilization:0  "Full Mobilization"
+KON_strong_dynasty:0 "Strong Dynasty"
+KON_turkish_communion:0 "Turkish Communion"
