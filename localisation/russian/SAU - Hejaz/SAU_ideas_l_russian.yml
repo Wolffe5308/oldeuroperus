@@ -1,0 +1,23 @@
+﻿l_russian:
+
+  #TRAITS
+  SAU_desert_founder:0 "Founder of the Desert Realm"
+  SAU_unrecognized_caliph:0 "Unrecognized Caliph"
+  SAU_caliph_of_all_muslims:0 "Caliph of All Muslims"
+  SAU_master_of_the_faithful:0 "Master of the Faithful"
+
+  #DYNAMIC MODIFIER IDEA
+  SAU_create_hejazi_tribes:0 "Restablish the §3Hejazi Tribes§!"
+  SAU_modify_hejazi_tribes_by:0 "Modify §YHejazi Tribes§! by"
+  SAU_hejazi_tribes:0 "Hejazi Tribes"
+  SAU_create_throne_of_the_caliph:0 "Restablish the §GThrone of the Caliph§!"
+  SAU_modify_throne_of_the_caliph_by:0 "Modify §YThrone of the Caliph§! by"
+  SAU_throne_of_the_caliph:0 "Throne of the Caliph"
+
+  #IDEAS
+  SAU_lost_the_mandate:0 "Lost the Mandate"
+  SAU_desertion_of_the_faithful:0 "Desertion of the Faithful"
+  SAU_zakat_corruption:0 "Zakat Corruption"
+  SAU_ignorance_among_the_masses:0 "Ignorance Among the Masses"
+  SAU_winds_of_renewal:0 "Winds of Renewal"
+  SAU_faith_and_sword:0 "Faith and Sword"
