@@ -1,0 +1,50 @@
+﻿l_russian:
+
+  #TRAITS
+  JNX_ancestor_king_manchu:0 "Отец Маньчжурии"
+  JNX_king_of_heaven:0 "Царь Небес"
+
+  #DYNAMIC MODIFIER IDEAS
+  JNX_create_military_idea:0 "Создаст идею §3Маньчжурскую армию§!"
+  JNX_modify_military_idea_by:0 "Улучшит идею §Y3Маньчжурскую армию§! на"
+  JNX_military_idea:0 "Маньчжурская армия"
+  JNX_create_industry_idea:0 "Создаст идею §33Маньчжурское производство§!"
+  JNX_modify_industry_idea_by:0 "Улучшит §YМаньчжурскую Industry§! на"
+  JNX_industry_idea:0 "Маньчжурскаое производство"
+  JNX_create_research_idea:0 "Establish the §33Маньчжурские иследования§!"
+  JNX_modify_research_idea_by:0 "Улучшит §YМаньчжурскую Research§! на"
+  JNX_research_idea:0 "Маньчжурские исследования"
+
+  #IDEAS
+  JNX_mongol_tribute_1:0 "Невыносимая монгольская дань"
+  JNX_mongol_tribute_2:0 "Огромная монгольская дань"
+  JNX_mongol_tribute_3:0 "Средняя монгольская дань"
+  JNX_mongol_tribute_4:0 "Сниженная монгольская дань"
+  JNX_mongol_tribute_5:0 "Номинальная дань монголам"
+  JNX_anti_mongol_resistance:0 "Маньчжурское сопротивление"
+  JNX_unorganized_military_structure:0 "Неорганизованная армия"
+  JNX_manchurian_military_structure_1:0 "Разношёрстная армия"
+  JNX_manchurian_military_structure_2:0 "Частично стандартизированная армия"
+  JNX_manchurian_military_structure_3:0 "Стандартизированная армия"
+  JNX_manchurian_military_structure_4:0 "Централизованное военное командование"
+  JNX_manchurian_navy:0 "Маньчжурский флот"
+  JNX_offensive_doctrine:0 "Атакующая доктрина"
+  JNX_defensive_doctrine:0 "Оборонительная доктрина"
+  JNX_offensive_doctrine_improved:0 "Улучшенная Атакующая доктрина"
+  JNX_defensive_doctrine_improved:0 "Улучшенная Оборонительная доктрина"
+ 
+  JNX_tengri_sky_favored_riders:0 "Небесные наездники"
+  JNX_tengri_sky_favored_riders_desc:0 "Под вечным голубым небом кланы быстрых и выносливых всадников преодолевают бескрайние земли и наносят стремительные удары."
+  JNX_islam_ummah_of_the_faithful:0 "Умма правоверных"
+  JNX_islam_ummah_of_the_faithful_desc:0 "Общая вера объединяет как людей, так и правителей, укрепляя единство, решимость и волю к защите страны."
+  JNX_confucian_mandate_of_order:0 "Требование Порядка"
+  JNX_confucian_mandate_of_order_desc:0 "Гармония, долг и иерархия стабильны, поддерживают дисциплину и помогают управлять государством."
+  JNX_taoist_way_of_balance:0 "Путь истинного баланса"
+  JNX_taoist_way_of_balance_desc:0 "Следуя этому Пути, королевство учится терпению и выдержке, меньше страдает от трудностей и быстрее восстанавливает силы."
+  JNX_catholic_authority_of_the_church:0 "Авторитет Святой Церкви"
+  JNX_catholic_authority_of_the_church_desc:0 "Церковь дарует легитимность и цель, укрепляя корону и сплачивая верующих вокруг праведных дел."
+  JNX_orthodox_defenders_of_the_true_faith:0 "Защитник истинной веры"
+  JNX_orthodox_defenders_of_the_true_faith_desc:0 "Непоколебимая вера и традиции защищают королевство от вторжений и беспорядков даже в самые мрачные времена."
+  JNX_miaphysite_enduring_sacred_tradition:0 "Священная традиция"
+  JNX_miaphysite_enduring_sacred_tradition_desc:0 "Стойкая вера сохраняет единство и самобытность, уменьшает беспорядки и укрепляет оборону страны."
+  
