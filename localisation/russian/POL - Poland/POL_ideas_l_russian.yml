@@ -1,0 +1,33 @@
+﻿l_english:
+
+  #TRAITS
+  POL_piast_king:0 "Piast King"
+
+  #DYNAMIC MODIFIER IDEAS
+  POL_create_winged_hussars:0 "Establish the §RWinged Hussars§!"
+  POL_modify_winged_hussars_by:0 "Modify §YWinged Hussars§! by"
+  POL_winged_hussars:0 "Winged Hussars"
+  POL_create_commonweath_economy:0 "Realize the §3Commonweath Economy§!"
+  POL_modify_commonweath_economy_by:0 "Modify §YCommonweath Economy§! by"
+  POL_commonweath_economy:0 "Commonweath Economy"
+
+  #IDEAS
+  POL_piast_dukes_divided:0 "Fragmented Piast Dukes"
+  POL_piast_dukes_divided_desc:0 "The realm is fractured among competing Piast rulers. Royal authority is weak, revenues are divided, and loyalty lies with local lords rather than the crown."
+  POL_piast_dukes_appeased:0 "Appeased Piast Dukes"
+  POL_piast_dukes_appeased_desc:0 "Through concessions and privileges, the dukes have been brought into reluctant cooperation. Unity exists, but only so long as the rewards continue."
+  POL_piast_dukes_subdued:0 "Subdued Piast Dukes"
+  POL_piast_dukes_subdued_desc:0 "The dukes have been cowed by force and example. Open resistance has ended, though bitterness still simmers beneath the surface."
+  POL_piast_authority_consolidated:0 "Piast Authority Consolidated"
+  POL_piast_authority_consolidated_desc:0 "The crown stands unchallenged. The era of fragmentation has ended, and the Piast realm now moves with a single will."
+  POL_feudal_fragmentation:0 "Feudal Fragmentation"
+  POL_overmighty_szlachta:0 "Overmighty Szlachta"
+  POL_reconciled_szlachta:0 "Reconciled Szlachta"
+  POL_cavalry_centric_warfare:0 "Cavalry-Centric Warfare"
+  POL_broken_agrarian_economy:0 "Broken Agrarian Economy"
+  POL_coinage_instability:0 "Coinage Instability"
+  POL_polish_army:0 "Polish Army"
+  POL_infantry_centric_warfare:0 "Knightship-Centric Warfare"
+  POL_polish_senate:0 "Polish Senate"
+  POL_szlachta_influence:0 "Szlachta's Influence"
+  POL_light_of_menorah:0 "Light of Menorah"
