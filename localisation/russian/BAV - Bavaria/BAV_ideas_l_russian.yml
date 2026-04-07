@@ -1,0 +1,14 @@
+﻿l_russian:
+
+  #DYNAMIC MODIFIER IDEAS
+  BAV_create_ludwig_reforms:0 "Создать §RРеформы Людвиг§!"
+  BAV_modify_ludwig_reforms_by:0 "Изменить §YРеформы Людвиг§! на"
+  BAV_ludwig_reforms:0 "Реформы Людвига"
+
+  #IDEAS  
+  BAV_munich_self_governing:0 "Мюнхенское городское самоуправление"
+  BAV_munich_self_governing_desc:0 "Самоуправление облегчает управление страной в целом, поскольку город сможет самостоятельно решать все свои проблемы."
+  BAV_civil_regulations:0 "Гражданские нормы"
+  BAV_civil_regulations_desc:0 "Гражданское регулирование поможет нам урегулировать ситуацию в нашей стране."
+  BAV_additional_taxes:0 "Дополнительные налоги"
+  BAV_rulers_greed:0 "Жадность правителя" 
