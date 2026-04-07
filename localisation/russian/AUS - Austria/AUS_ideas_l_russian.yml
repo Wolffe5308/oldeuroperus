@@ -5,6 +5,9 @@
  AUS_federal_system:0 "Федеральная система"
  AUS_army_spirit:0 "Армейский дух"
  AUS_german_trade_network:0 "Немецкая торговая сеть"
+ AUS_papal_support:0 "Папская поддержка"
+ AUS_theocratic_influence:0 "Теократическое влияние"
+ AUS_pagan_rituals:0 "Языческие ритуалы"
 
  #TRAITS
  AUS_habsburg_dynasty:0 "Династия Габсбургов"
