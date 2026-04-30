@@ -4,6 +4,6 @@ tags={
 }
 name="Dikk Society: Old Europe (RUS)"
 picture="thumbnail.png"
-supported_version="1.17.3"
+supported_version="1.18.1"
 path="mod/oldeuroperus"
 remote_file_id="3602118921"
