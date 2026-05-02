@@ -1,0 +1,42 @@
+﻿l_russian:
+
+  #TRAITS
+  APA_chosen_by_people:0 "Избранный людьми"
+  APA_chosen_by_people_and_ancestors:0 "Избранный народом и предками"
+
+  #DYNAMIC MODIFIER IDEAS
+  APA_create_tribal_unity:0 "Добавляет §RПлеменное Единство§!"
+  APA_modify_tribal_unity_by:0 "Изменяет §Y Племенное единство §! на"
+  APA_tribal_unity:0 "Племенное единство"
+  APA_create_apache_adaptation:0 "Добавляет §R адаптацию Апачи §!"
+  APA_modify_apache_adaptation_by:0 "Изменяет §Y Адаптацию Апачи §! на"
+  APA_apache_adaptation:0 "Адаптация Апачи"
+  APA_create_ways_of_the_ancestors:0 "Изучает §4 пути предков §!"
+  APA_modify_ways_of_the_ancestors_by:0 "Изменяет §Y Пути предков §! на"
+  APA_ways_of_the_ancestors:0 "Пути предков"
+
+  #IDEAS  
+  APA_disunited_apache_bands:0 "Разобщенные племена апачей"
+  APA_lack_of_central_authority:0 "Отсутствие центральной власти"
+  APA_underdeveloped_lands:0 "Неосвоенные земли"
+  APA_slow_technological_growth:0 "Медленный технологический рост"
+  APA_nomadic_instability:0 "Кочевая нестабильность"
+  APA_spirits_of_the_desert:0 "Духи пустыни"
+  APA_spirits_of_the_hunt:0 "Духи охоты"
+  APA_spirits_of_adaptation:0 "Духи адаптации"
+  APA_spirits_of_the_people:0 "Духи народа"
+  APA_spirits_of_survival:0 "Духи выживания"
+  APA_avatar_of_the_desert:0 "Аватар пустыни"
+  APA_avatar_of_the_hunt:0 "Аватар Охоты"
+  APA_avatar_of_adaptation:0 "Аватар адаптации"
+  APA_avatar_of_the_people:0 "Аватар народа"
+  APA_avatar_of_survival:0 "Аватар выживания"
+  APA_trial_by_fire:0 "Испытание огнем"
+  APA_aztec_idols:0 "Ацтекские идолы"
+  APA_nomadic_economy:0 "Кочевая экономика"
+  APA_war_born_economy:0 "Порожденная войной экономика"
+  APA_shadows_of_the_mountains:0 "Тени гор"
+  APA_allow_women_to_join:0 "Армия смешанных полов"
+  APA_allow_women_to_join_desc:0 "В трудные времена все должны объединиться. Позволяя женщинам принимать участие в жизни племени, вне рамок традиций, наш народ становится сильнее и выносливее, хотя некоторые старейшины сомневаются в правильности нашего воинского пути"
+  APA_man_only_army:0 "Армия только для мужчин"
+  APA_man_only_army_desc:0 "Наши традиции ясны: война — долг мужчины. Сохраняя старые обычаи, наши воины остаются дисциплинированными и свирепыми, но этот выбор ограничивает силу и рост всего племени."
