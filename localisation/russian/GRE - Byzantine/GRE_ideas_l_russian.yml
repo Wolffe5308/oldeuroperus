@@ -1,14 +1,25 @@
 ﻿l_russian:
 
- GRE_max_exploitation_of_slaves:0 "Максимальная Эксплуатация Рабов"
- GRE_reliance_on_metafeudalism:0 "Опора на Метафеодализм"
- GRE_control_of_the_monetary_system:0 "Контроль над Денежной Системой"
- GRE_economical_problems:0 "Экономические Проблемы"
- GRE_increased_maintenance_army:0 "Увеличение Расходов на Содержание Армии"
- GRE_regional_armies:0 "Региональные Армии"
- GRE_memories_of_rome:0 "Воспоминания о Риме"
- GRE_army_training:0 "Армейская Подготовка"
- GRE_preproduction:0 "Подготовка к Производству"
- GRE_veterans_in_army:0 "Ветераны в Армии"
- GRE_slaves_in_army:0 "Рабы в Армии"
- GRE_daring_raids:0 "Дерзкие набеги"
+ #DYNAMIC MODIFIER IDEA
+  GRE_create_manorial_economy:0 "Создать §3Поместная экономика§!"
+  GRE_modify_manorial_economy_by:0 "Изменить §YПоместная экономика§! на"
+  GRE_manorial_economy:0 "Поместная экономика"
+  GRE_create_assembly_of_estates:0 "Создать §3Сословная ассамблея§!"
+  GRE_modify_assembly_of_estates_by:0 "Изменить §YСословная ассамблея§! на"
+  GRE_assembly_of_estates:0 "Сословная ассамблея"
+
+  #IDEAS
+  GRE_max_exploitation_of_slaves:0 "Максимальная эксплуатация рабов"
+  GRE_reliance_on_metafeudalism:0 "Опора на Метафеодализм"
+  GRE_control_of_the_monetary_system:0 "Контроль над денежной системой"
+  GRE_economical_problems:0 "Экономические проблемы"
+  GRE_increased_maintenance_army:0 "Увеличение расходов на содержание армии"
+  GRE_regional_armies:0 "Региональные армии"
+  GRE_memories_of_rome:0 "Воспоминания о Риме"
+  GRE_army_training:0 "Армейская подготовка"
+  GRE_preproduction:0 "Подготовка к производству"
+  GRE_veterans_in_army:0 "Ветераны в армии"
+  GRE_slaves_in_army:0 "Рабы в армии"
+  GRE_daring_raids:0 "Дерзкие набеги"
+  GRE_corruption_in_govenment:0 "Коррупция в правительстве"
+
