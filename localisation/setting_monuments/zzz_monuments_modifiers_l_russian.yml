@@ -1,6 +1,6 @@
 ﻿l_russian:
- subjects_autonomy_gain: "Autonomy in Subjects"
- modifier_num_of_research_slots: "Research Slots"
+ subjects_autonomy_gain: "Автономия по предметам"
+ modifier_num_of_research_slots: "Исследовательские слоты"
 
  # Constants Only:
  war_support_factor: "$MODIFIER_WAR_SUPPORT_FACTOR$"

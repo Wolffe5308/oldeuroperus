@@ -1,0 +1,12 @@
+﻿l_russian:
+
+#TCS_ideologies_l_english
+ leninism_drift:0 "£boost_popularity_texticon Ежедневная поддержка Vanguardism"
+ marxism_drift:0 "£boost_popularity_texticon Ежедневная поддержка марксизма"
+ rev_socialism_drift:0 "£boost_popularity_texticon Поддержка ежедневного революционного социализма"
+ soc_democracy_drift:0 "£boost_popularity_texticon Ежедневная поддержка социал-демократии"
+ soc_liberal_drift:0 "£boost_popularity_texticon Ежедневная поддержка социального либерализма"
+ lib_conservatism_drift:0 "£boost_popularity_texticon Ежедневная поддержка либерального консерватизма"
+ soc_conservatism_drift:0 "£boost_popularity_texticon Ежедневная поддержка социального консерватизма"
+ auth_democrat_drift:0 "£boost_popularity_texticon Ежедневная аутентификация. Поддержка демократии"
+ pat_autocrat_drift:0 "£boost_popularity_texticon Ежедневная поддержка отцовской автократии"

@@ -1,0 +1,44 @@
+﻿l_russian:
+
+#PB_France_l_english
+ FRA_Factionalism_0.02_decrease:0 "£pb_factionalism_texticon Фракционность: §G -2% §! ."
+  FRA_Factionalism_0.04_decrease:0 "£pb_factionalism_texticon Фракционность: §G -4% §! ."
+  FRA_Factionalism_0.06_decrease:0 "£pb_factionalism_texticon Фракционность: §G -6% §! ."
+  FRA_Factionalism_0.02_increase:0 "£pb_factionalism_texticon Фракционность: §R +2% §! ."
+  FRA_Factionalism_0.04_increase:0 "£pb_factionalism_texticon Фракционность: §R +4% §! ."
+  FRA_Factionalism_0.06_increase:0 "£pb_factionalism_texticon Фракционность: §R +6% §! ."
+  
+  Factionalism_tt_delayed:0 "Политическая система Франции противоречит друг другу. Назвать его крайне правым политическим союзом было бы грубым преуменьшением взяток и коррупции, которыми дышит французское государство. Всегда и где-то есть кто-то с иным мнением. Этих особей необходимо выслеживать до самого их исчезновения. \n \n В зависимости от вашего уровня фракционности ваша стабильность и факторы политической власти будут увеличиваться/уменьшаться. Модификатор «Фракционного рвения» также будет увеличиваться на §R +1 §! каждый месяц, поэтому не забудьте сохранить его на прежнем уровне! \n \n Эти модификаторы корректируют §Y Ежемесячно §! и являются следующими: \n \n Низкая фракционность: \n £ Political_power_texticon Прирост политической власти: §G +10,00% §! \n £stability_texticon Стабильность: §G +10,00% §! \n £stability_popularity_texticon Партийная популярность Модификатор стабильности: §G +10,00% §! \n \n Средняя фракционность: \n £ Political_power_texticon Прирост политической власти: §R -5,00% §! \n £stability_texticon Стабильность: §R -5,00% §! \n £stability_popularity_texticon Партийная популярность Модификатор стабильности: §R -5,00% §! \n \n Высокая фракционность: \n £ Political_power_texticon Прирост политической власти: §R -10,00% §! \n £stability_texticon Стабильность: §R -10,00% §! \n £stability_popularity_texticon Модификатор стабильности популярности партии: §R -10,00% §! \n"
+  
+  FRA_Nationalistic_Fervour_0.02_decrease:0 "£pb_nationalistic_fervour_texticon Националистический пыл: §R -2% §! ."
+  FRA_Nationalistic_Fervour_0.04_decrease:0 "£pb_nationalistic_fervour_texticon Националистический пыл: §R -4% §! ."
+  FRA_Nationalistic_Fervour_0.06_decrease:0 "£pb_nationalistic_fervour_texticon Националистический пыл: §R -6% §! ."
+  FRA_Nationalistic_Fervour_0.02_increase:0 "£pb_nationalistic_fervour_texticon Националистический пыл: §G +2% §! ."
+  FRA_Nationalistic_Fervour_0.04_increase:0 "£pb_nationalistic_fervour_texticon Националистический пыл: §G +4% §! ."
+  FRA_Nationalistic_Fervour_0.06_increase:0 "£pb_nationalistic_fervour_texticon Националистический пыл: §G +6% §! ."
+  
+  Nationalistic_Fervour_tt_delayed:0 "Поражение в Первой мировой войне до сих пор сильно влияет на сознание французов. Многие отцы, братья и мужья погибли, а те, кто пережил такие ужасы, жаждут мести. Жажда, которая не будет утолена до падения Британской и Германской империй. \n \n В зависимости от вашего уровня националистического рвения будут применяться различные военные модификаторы. Модификатор «Националистического рвения» также будет уменьшаться на §R -1 §! каждый месяц, поэтому не забывайте поддерживать его! \n \n Эти модификаторы корректируют §Y Ежемесячно §! и являются следующими: \n \n Низкий националистический пыл: \n £population_texticon Ежемесячное население: §R -5,00% §! \n £surrender_texticon Предел капитуляции: §R -5,00% §! \n £manpower_texticon Фактор рекрутируемого населения: §R -5,00% §! \n £defence_core_texticon Защита дивизии на основной территории: §R -5,00% §! \n £attack_core_texticon Атака дивизии на основной территории: §R -5,00% §! \n \n Средний националистический Рвение: \n £population_texticon Ежемесячное население: §G +5,00% §! \n £surrender_texticon Лимит капитуляции: §G +5,00% §! \n £manpower_texticon Коэффициент рекрутируемого населения: §G +5,00% §! \n £defence_core_texticon Защита дивизии на основной территории: §G +5,00% §! \n £attack_core_texticon Атака дивизии на основной территории: §G +5,00% §! \n \n Высокий националистический пыл: \n £population_texticon Месячная численность населения: §G +10,00% §! \n £surrender_texticon Лимит капитуляции: §G +10,00% §! \n £manpower_texticon Фактор рекрутируемого населения: §G +10,00% §! \n £defence_core_texticon Защита дивизии на основной территории: §G +10,00% §! \n £attack_core_texticon Атака дивизии на основную территорию: §G +10,00% §!"
+
+#PB_Modifiers_l_english
+ni_drift:0 "£boost_popularity_texticon Ежедневная поддержка неоимпериализма"
+ds_drift:0 "£boost_popularity_texticon Ежедневная поддержка деспотизма"
+rc_drift:0 "£boost_popularity_texticon Ежедневная реакционная поддержка"
+cn_drift:0 "£boost_popularity_texticon Ежедневная консервативная поддержка"
+lb_drift:0 "£boost_popularity_texticon Ежедневная либеральная поддержка"
+ss_drift:0 "£boost_popularity_texticon Ежедневная государственная социалистическая поддержка"
+jc_drift:0 "£boost_popularity_texticon Ежедневная поддержка Jacobin"
+
+ni_acceptance:0 "£ai_acceptance_texticon Принятие неоимпериалистической дипломатии"
+ds_acceptance:0 "£ai_acceptance_texticon Принятие деспотизма Дипломатия"
+rc_acceptance:0 "£ai_acceptance_texticon Принятие реакционной дипломатии"
+cn_acceptance:0 "£ai_acceptance_texticon Принятие консервативной дипломатии"
+lb_acceptance:0 "£ai_acceptance_texticon Принятие либеральной дипломатии"
+ss_acceptance:0 "£ai_acceptance_texticon Принятие государственной социалистической дипломатии"
+jc_acceptance:0 "£ai_acceptance_texticon Принятие якобинской дипломатии"
+
+
+modifier_production_speed_research_center_factor:0 "£construction_speed_texticon §Y Исследовательский центр §! скорость строительства"
+modifier_production_speed_tesla_tower_factor:0 "£construction_speed_texticon §Y Башня Тесла §! скорость строительства"
+modifier_production_speed_medical_center_factor:0 "£construction_speed_texticon §Y Медицинский центр §! скорость строительства"
+modifier_production_speed_steel_mill_factor:0 "£construction_speed_steelmill_texticon §Y Сталелитейный завод §! скорость строительства"
+modifier_production_speed_farm_mill_factor:0 "£construction_speed_texticon §Y Агропонный комплекс §! скорость строительства"
