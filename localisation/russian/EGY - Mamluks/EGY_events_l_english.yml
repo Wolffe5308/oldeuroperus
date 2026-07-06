@@ -1,0 +1,16 @@
+﻿l_english:
+
+  mam.1.t:0 "Mamluk Ambassador"
+  mam.1.desc:0 "An ambassador from Cairo arrived here today. He argues that in connection with the interests of his state, we should transfer our entire Red Sea coast to them. What should we say?"
+  mam.1.a:0 "We'll do it."
+  mam.1.b:0 "Kill him"
+  mam.2.t:0 "The collapse of the Hulaguids"
+  mam.2.desc:0 "After our capture of three important fortresses, the Persian elites saw the weakness of the Mongol rule and overthrew it."
+  mam.2.a:0 "This is just the beginning"
+  mam.3.t:0 "The Last Blood of the Pharaohs"
+  mam.3.d:0 "With the Mamluk Sultanate abandoning its old faith and embracing the ancient traditions of Egypt, the legitimacy of foreign dynasties has come into question. After an extensive search through forgotten family records, temple archives, and noble genealogies, a man claiming descent from the final Pharaohs has been presented before the court.\n\nRecognized as the last living heir of the ancient dynasties, Nectanebo III has been proclaimed the new ruler of Egypt. For the first time in centuries, a Pharaoh once again sits upon the throne of the Two Lands."
+  mam.3.a:0 "Long live the Pharaoh!"
+
+  mam_news.1.t:0 "§WMemphis Rises Once More§!"
+  mam_news.1.a:0 "The glory of Kemet returns."
+  mam_news.1.d:0 "Egypt has turned once more toward the traditions of its ancient past. By royal decree, the ruined city of Memphis is to be rebuilt upon its old foundations, restoring the first great capital of the Pharaohs.\n\nTemples, monuments, and royal halls will rise again beside the Nile, serving as symbols of a revived Egyptian identity. To the world, the rebirth of Memphis marks a bold declaration: Egypt no longer seeks only to rule the present, but to reclaim the legacy of its ancestors."
