@@ -1,25 +1,25 @@
-﻿l_english:
+﻿l_russian:
 
   #TRAITS  
-  EGY_apostle_of_egypt:0 "Apostle of Egypt"
-  EGY_the_god_crowned_pharaoh:0 "The God-Crowned Pharaoh"
-  EGY_peoples_favorite:0 "The People's Favorite"
+  EGY_apostle_of_egypt:0 "Апостол Египта"
+  EGY_the_god_crowned_pharaoh:0 "Боговенчанный Фараон"
+  EGY_peoples_favorite:0 "Любимец народа"
 
   #DYNAMIC MODIFIER IDEAS
-  EGY_create_mamluks_army:0 "Establish the §RMamluks Army§!"
-  EGY_modify_mamluks_army_by:0 "Modify §YMamluks Army§! by"
-  EGY_mamluks_army:0 "Mamluks Army"
-  EGY_create_mamluks_government:0 "Establish the §RMamluks Government§!"
-  EGY_modify_mamluks_government_by:0 "Modify §YMamluks Government§! by"
-  EGY_mamluks_government:0 "Mamluks Government"
+  EGY_create_mamluks_army:0 "Создаст идею §RМамлюкская армия§!"
+  EGY_modify_mamluks_army_by:0 "Улучшит идею §YМамлюкская армия§! на:"
+  EGY_mamluks_army:0 "Мамлюкская армия"
+  EGY_create_mamluks_government:0 "Будет получена идея §RМамлюкское правительство§!"
+  EGY_modify_mamluks_government_by:0 "Изменит идею §YМамлюкское правительство§! на:"
+  EGY_mamluks_government:0 "Мамлюкское правительство"
 
   #IDEAS  
-  egyptian_paganism:0 "Egyptian Paganism"
-  EGY_religious_tension:0 "Religious Tension"
-  EGY_offensive_support:0 "Forward, to Victory!"
-  EGY_coptic_revival:0 "Coptic Revival"
-  EGY_sword_of_saint_mark:0 "Sword of Saint Mark"
-  EGY_ptah_idea:0 "Ptah's Blessing"
-  EGY_ra_idea:0 "Ra's Blessing"
-  EGY_amen_idea:0 "Amen's Blessing"
-  EGY_set_idea:0 "Seth's Blessing"
+  egyptian_paganism:0 "Египетское язычество"
+  EGY_religious_tension:0 "Религиозный раскол"
+  EGY_offensive_support:0 "Вперёд, к победе!"
+  EGY_coptic_revival:0 "Коптское возрождение"
+  EGY_sword_of_saint_mark:0 "Меч Святого Марка"
+  EGY_ptah_idea:0 "Благословение Птаха"
+  EGY_ra_idea:0 "Благословение Ра"
+  EGY_amen_idea:0 "Благословение Амона"
+  EGY_set_idea:0 "Благословение Сета"
