@@ -1,13 +1,19 @@
 ﻿l_russian:
 
- MSK_agrarian_reform:0 "Аграрные Реформы"
- MSK_carpenters_western_europe:0 "Плотники из Западной Европы"
- MSK_subsidies_artisans:0 "Cубсидии для Ремесленников"
- MSK_slavic_idols:0 "Славянские Идолы"
- MSK_orthodox_spirit:0 "Там русский дух... там Русью пахнет!"
- MSK_russian_spirit:0 "Там русский дух... там Русью пахнет!"
- MSK_russian_military:0 "Российские Полки"
- MSK_standardized_equipment:0 "Стандартизированное оборудование"
- MSK_planning_officers:0 "Русские Офицеры"
- MSK_infrastructural_reforms:0 "Инфраструктурные Реформы"
- MSK_war_taxes:0 "Милитаризация"
+  #DYNAMIC MODIFIER IDEA
+  MSK_create_industrial_reforms:0 "Создать §3Промышленные реформы§!"
+  MSK_modify_industrial_reforms_by:0 "Изменить §YПромышленные реформы§! на"
+  MSK_industrial_reforms:0 "Промышленные реформы"
+
+  #IDEAS
+  MSK_agrarian_reform:0 "Аграрная реформа"
+  MSK_carpenters_western_europe:0 "Плотники из Западной Европы"
+  MSK_subsidies_artisans:0 "Cубсидии для ремесленников"
+  MSK_slavic_idols:0 "Славянские идолы"
+  MSK_orthodox_spirit:0 "Хранители веры"
+  MSK_russian_spirit:0 "Там русский дух... там Русью пахнет!"
+  MSK_russian_military:0 "Российская армия"
+  MSK_standardized_equipment:0 "Стандартизированное оборудование"
+  MSK_planning_officers:0 "Русские офицеры"
+  MSK_war_taxes:0 "Милитаризация"
+  MSK_infrastructural_reforms:0 "Инфраструктурные Реформы"
