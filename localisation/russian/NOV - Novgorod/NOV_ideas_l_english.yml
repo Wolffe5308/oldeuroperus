@@ -1,0 +1,23 @@
+﻿l_english:
+
+  #TRAITS  
+  NOV_self_claimed_tsar:0 "Self-Claimed Tsar"
+  NOV_tsar_of_russian_people:0 "Tsar of the Russian People"
+
+  #DYNAMIC MODIFIER IDEA
+  NOV_create_novgorodian_army:0 "Establish the §RNovgorodian Army§!"
+  NOV_modify_novgorodian_army_by:0 "Modify §YNovgorodian Army§! by"
+  NOV_novgorodian_army:0 "Novgorodian Army"
+  NOV_create_merchant_power:0 "Establish §6Merchant Power§!"
+  NOV_modify_merchant_power_by:0 "Modify §YMerchant Power§! by"
+  NOV_merchant_power:0 "Merchant Power"
+  NOV_create_cultural_unity:0 "Promote §GCultural Unity§!"
+  NOV_modify_cultural_unity_by:0 "Modify §YCultural Unity§! by"
+  NOV_cultural_unity:0 "Cultural Unity"
+
+  #IDEAS
+  NOV_efficient_military_structure:0 "Efficient Military Structure"
+  NOV_novgorodian_navy:0 "Novgorodian Navy"
+  NOV_orthodox_ascendancy:0 "Orthodox Ascendancy"
+  NOV_novgorodian_military:0 "Novgorodian Military"
+
