@@ -1,0 +1,27 @@
+﻿l_english:
+
+ norway_events.1.t:0 "Forging a Great Artifact"
+ norway_events.1.desc:0 "With our newly created Volcanic Forges still being questioned by some, it would really help if [ICE.GetLeader] would commission something that can publicly show the people that the government endorses them."
+ norway_events.1.a:0 "An Axe can show our strenght"
+ norway_events.1.b:0 "A Shield will be symbolic"
+ norway_events.1.c:0 "One Ring to Rule them All"
+ norway_events.1.d:0 "Our King needs a Crown that will be passed down for generations"
+ norway_events.1.e:0 "A Great Hammer"
+ norway_events.1.f:0 "Masterfully crafted Armor will sufice."
+
+ norway_events.2.t:0 "The Traders Arrest the King"
+ norway_events.2.desc:0 "Powerful merchants and guild leaders have grown tired of royal interference in trade. In a swift and bloodless coup, the king has been arrested, and a council of traders has declared itself the new ruling authority of Norway."
+ norway_events.2.a:0 "The Trade Council shall rule Norway."
+
+ norway_events.3.t:0 "King Hakon V Retires"
+ norway_events.3.desc:0 "After years of rule, King Hakon V has chosen to retire from the throne. With the support of the court and nobility, Queen Euphemia now assumes leadership of Norway, promising stability and prosperity for the realm."
+ norway_events.3.a:0 "Long live Queen Euphemia"
+ 
+ norway_events.4.t:0 "The Return of the Old Gods"
+ norway_events.4.desc:0 "As Norway openly embraces the ancient Norse gods once more, King Hakon V sees an opportunity to unite Scandinavia under the legacy of the Vikings. Clad in legendary armor forged in Nordic tradition, he proclaims himself the Viking King of the North."
+ norway_events.4.a:0 "The age of the Vikings shall rise again!" 
+
+ norway_events.5.t:0 "The Question of Faith"
+ norway_events.5.desc:0 "The return of Viking traditions has awakened old questions among the people. Some now call for Norway to abandon its current faith and restore the German pagan ways of the ancestors, while others warn that such a path would divide the realm. The crown must decide whether Norway returns to the old gods or remains loyal to its current religion."
+ norway_events.5.a:0 "Return to German Paganism."
+ norway_events.5.b:0 "We shall keep our current religion."
