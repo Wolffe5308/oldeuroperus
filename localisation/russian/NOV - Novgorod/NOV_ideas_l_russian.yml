@@ -1,4 +1,26 @@
 ﻿l_russian:
 
- NOV_army_problems:0 "Армейские Проблемы" 
- NOV_mix_of_cultures:0 "Смесь Народов"
+  #TRAITS  
+  NOV_self_claimed_tsar:0 "Само-провозглашенный Царь"
+  NOV_tsar_of_russian_people:0 "Царь русского народа"
+
+  #DYNAMIC MODIFIER IDEA
+  NOV_create_novgorodian_army:0 "Создать §RНовгородское войско§!"
+  NOV_modify_novgorodian_army_by:0 "Улучшить §YНовгородское войско§! на"
+  NOV_novgorodian_army:0 "Новгородское войско"
+  NOV_create_merchant_power:0 "Получить §6Торговую силу§!"
+  NOV_modify_merchant_power_by:0 "Улучшить §YТорговую силу§! на"
+  NOV_merchant_power:0 "Торговая сила"
+  NOV_create_cultural_unity:0 "Развивать §GКультурное единство§!"
+  NOV_modify_cultural_unity_by:0 "Улучшить §YКультурное единство§! на"
+  NOV_cultural_unity:0 "Культурное единство"
+
+  #IDEAS
+  NOV_efficient_military_structure:0 "Эффективное военное коммандование"
+  NOV_novgorodian_navy:0 "Новгородский флот"
+  NOV_orthodox_ascendancy:0 "Господство православия"
+  NOV_novgorodian_military:0 "Новгородское войско"
+  NOV_army_problems:0 "Армейские Проблемы" 
+  NOV_mix_of_cultures:0 "Смесь Народов"
+
+ #Привет всем кто это читает от переводчика Васи
