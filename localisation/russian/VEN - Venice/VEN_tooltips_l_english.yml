@@ -1,10 +1,10 @@
-﻿l_english:
+﻿l_russian:
 
-  VEN_trade_partner_tt:0 "Venice's Trade Partner"
-  VEN_people_angry_tt:0 "§RSupport for Autocracy increases.§!"
-  VEN_people_support_tt:0 "§GSupport for the Republic increases.§!"  
-  VEN_nobles_unhappy_economic_crisis_tt:0 "§RThe ongoing economic crisis has angered the Venetian noble families, who question the Republic's leadership.§!"
-  VEN_nobles_are_supporting_tt:0 "§GThe Venetian nobility supports the government.§!"
-  VEN_due_to_no_crisis_counsil_happy_tt:0 "§GWith trade flourishing and the treasury secure, the Great Council remains loyal to the Republic's leadership.§!"
-  VEN_people_support_autocracy_status_tt:0 "The people must support autocracy at least §Y2§! times in Emergency Meetings."
+  VEN_trade_partner_tt:0 "Торговый партнёр Венеции"
+  VEN_people_angry_tt:0 "§RПоддержка Монархии растёт.§!"
+  VEN_people_support_tt:0 "§GПоддержка Республики растёт.§!"  
+  VEN_nobles_unhappy_economic_crisis_tt:0 "§RТекущий экономический кризис вызвал гнев венецианской знати, заставив её усомниться в руководстве Республики.§!"
+  VEN_nobles_are_supporting_tt:0 "§GЗнать Венеции поддерживает правительство.§!"
+  VEN_due_to_no_crisis_counsil_happy_tt:0 "§GТорговля бьёт ключом, казна полна — Большой совет по-прежнему поддерживает руководство Республики.§!"
+  VEN_people_support_autocracy_status_tt:0 "Народ должен поддержать монархический строк как минимум §Yдважды§! на экстренных заседаниях."
   
