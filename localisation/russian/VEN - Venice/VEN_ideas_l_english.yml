@@ -1,31 +1,31 @@
 ﻿
-l_english:
+l_russian:
 
   #DYNAMIC MODIFIER IDEA
-  VEN_create_venetian_army:0 "Establish the §YVenetian Army§!"
-  VEN_modify_venetian_army_by:0 "Modify §YVenetian Army§! by"
-  VEN_venetian_army:0 "Venetian Army"
-  VEN_venetian_army_desc:0 "Though renowned for its fleets, the Venetian Republic maintains a disciplined land army to defend its mainland possessions, secure trade routes, and wage campaigns across the Adriatic and Italy. Composed of professional soldiers, feudal levies, and experienced mercenary companies, the Venetian Army fights not for conquest alone, but to protect the wealth and stability upon which the Serenissima is built."
-  VEN_create_venetian_navy:0 "Establish the §YVenetian Navy§!"
-  VEN_modify_venetian_navy_by:0 "Modify §YVenetian Navy§! by"
-  VEN_venetian_navy:0 "Venetian Navy"
-  VEN_venetian_navy_desc:0 "The lifeblood of Venice flows through the sea. Dominating the Adriatic with unmatched shipbuilding and skilled sailors, the Venetian Navy safeguards merchant convoys, crushes pirates, and projects the Republic's influence from the eastern Mediterranean to the ports of Western Europe. Its powerful galleys are the shield and spear of Venetian prosperity."
-  VEN_create_venetian_trade_network:0 "Establish the §YVenetian Trade Network§!"
-  VEN_modify_venetian_trade_network_by:0 "Modify §YVenetian Trade Network§! by"
-  VEN_venetian_trade_network:0 "Venetian Trade Network"
-  VEN_venetian_trade_network_desc:0 "Venice commands one of the greatest commercial empires of the medieval world. Through privileged agreements, bustling marketplaces, and a vast network of merchants stretching from Constantinople to Flanders, the Republic accumulates immense wealth. Every port connected to the Lion of Saint Mark strengthens Venice's economy and reinforces its position as the foremost trading power of the Mediterranean."
+  VEN_create_venetian_army:0 "Создать §YВенецианская армия§!"
+  VEN_modify_venetian_army_by:0 "Изменит §YВенецианская армия§! на:"
+  VEN_venetian_army:0 "Венецианская армия"
+  VEN_venetian_army_desc:0 "Венеция славится своим флотом, но у неё есть и дисциплинированная армия для защиты материковых владений, охраны торговых путей и ведения кампаний по всей Адриатике и Италии. В составе венецианской армии — профессиональные солдаты, феодальные ополчения и опытные наёмники. Она воюет не ради завоеваний, а за защищту богатства и стабильности, на которых держится Светлейшая Республика."
+  VEN_create_venetian_navy:0 "Создать §YВенецианский флот§!"
+  VEN_modify_venetian_navy_by:0 "Изменит §YВенецианский флот§! на:"
+  VEN_venetian_navy:0 "Венецианский флот"
+  VEN_venetian_navy_desc:0 "Жизненная сила Венеции течёт по морю. Господствуя в Адриатике благодаря непревзойдённому кораблестроению и искусным морякам, венецианский флот охраняет торговые караваны, сокрушает пиратов и проецирует влияние Республики от восточного Средиземноморья до портов Западной Европы. Его мощные галеры — и щит, и копьё венецианского процветания."
+  VEN_create_venetian_trade_network:0 "Создать §YТорговые пути Венеции§!"
+  VEN_modify_venetian_trade_network_by:0 "Изменит §YТорговые пути Венеции§! на:"
+  VEN_venetian_trade_network:0 "Торговые пути Венеции"
+  VEN_venetian_trade_network_desc:0 "Венеция повелевает одной из величайших торговых империй средневекового мира. Привилегированные соглашения, шумные рынки и разветвлённая сеть купцов — от Константинополя до Фландрии — приносят Республике несметные богатства. Каждый порт, связанный с крылатым львом Святого Марка, укрепляет экономику Венеции и утверждает её как главную торговую силу Средиземноморья."
   
   #IDEAS
-  VEN_master_builders:0 "Master Builders"
-  VEN_paying_tribute:0 "Paying Tribute"
-  VEN_war_payments:0 "War Payments"
-  VEN_economic_crisis:0 "Economic Crisis"
+  VEN_master_builders:0 "Строители-умельцы"
+  VEN_paying_tribute:0 "Уплата дани"
+  VEN_war_payments:0 "Милитаризация"
+  VEN_economic_crisis:0 "Экономический кризис"
 
   #IDEAS
   idea_state_irrigation:0 "Irritation"
-  VEN_hard_working_citizen:0 "Hard Working Citizen"
-  VEN_centralizzed_guild_system:0 "Centralized Guild System"
-  VEN_guaranteed_liberties_idea:0 "Guaranteed Liberties"
-  VEN_supply_investment:0 "Supply Investment"
-  VEN_global_dominance:0 "Global Dominance"
+  VEN_hard_working_citizen:0 "Трудолюбивые граждане"
+  VEN_centralizzed_guild_system:0 "Централизованная система гильдий"
+  VEN_guaranteed_liberties_idea:0 "Защита прав и свобод"
+  VEN_supply_investment:0 "Развитие логистики"
+  VEN_global_dominance:0 "Мировое господство"
   
