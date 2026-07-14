@@ -311,6 +311,8 @@
  modifier_production_speed_infrastructure_factor_desc:0 "Изменяет скорость строительства инфраструктуры."
  modifier_production_speed_arms_factory_factor:0 "Скорость строительства §Yоружейных§!"
  modifier_production_speed_arms_factory_factor_desc:0 "Изменяет скорость строительства оружейных."
+ modifier_production_speed_money_town_factor:0 "Скорость строительства §Yхрамов§!"
+ modifier_production_speed_money_town_factor_desc:0 "Изменяет скорость строительства храмов."
  modifier_production_speed_industrial_complex_factor:0 "Скорость строительства §Yмастерских§!"
  modifier_production_speed_industrial_complex_factor_desc:0 "Изменяет скорость строительства мастерских."
  modifier_production_speed_air_base_factor:0 "Скорость строительства §Yавиабаз§!"
