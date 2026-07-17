@@ -26,10 +26,10 @@ rc_drift:0 "£boost_popularity_texticon Ежедневная реакционн�
 cn_drift:0 "£boost_popularity_texticon Ежедневная консервативная поддержка"
 lb_drift:0 "£boost_popularity_texticon Ежедневная либеральная поддержка"
 ss_drift:0 "£boost_popularity_texticon Ежедневная государственная социалистическая поддержка"
-jc_drift:0 "£boost_popularity_texticon Ежедневная поддержка Jacobin"
+jc_drift:0 "£boost_popularity_texticon Ежедневная поддержка якобинцев"
 
 ni_acceptance:0 "£ai_acceptance_texticon Принятие неоимпериалистической дипломатии"
-ds_acceptance:0 "£ai_acceptance_texticon Принятие деспотизма Дипломатия"
+ds_acceptance:0 "£ai_acceptance_texticon Принятие деспотичной дипломатия"
 rc_acceptance:0 "£ai_acceptance_texticon Принятие реакционной дипломатии"
 cn_acceptance:0 "£ai_acceptance_texticon Принятие консервативной дипломатии"
 lb_acceptance:0 "£ai_acceptance_texticon Принятие либеральной дипломатии"
