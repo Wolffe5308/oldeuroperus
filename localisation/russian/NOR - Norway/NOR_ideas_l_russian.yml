@@ -1,0 +1,38 @@
+﻿l_russian:
+
+  #TRAITS
+  merchant_council:0 "Торговый совет"
+  graceful_diplomat:0 "Изящный дипломат"
+  viking_king:0 "Король викингов"
+  NOR_popular_figurehead:0 "Популярный формальный лидер"
+  NOR_cold_war_master:0 "Мастер холодной войны"
+  NOR_high_king:0 "Верховный Король"
+  NOR_has_volcanic_axe:0 "Боевой топор"
+  NOR_has_volcanic_shield:0 "Щит"
+  NOR_has_volcanic_ring:0 "Хранитель кольца"
+  NOR_has_volcanic_crown:0 "Прекрасная корона"
+  NOR_has_volcanic_hammer:0 "Большой Молот"
+  NOR_has_volcanic_armor:0 "Преданные доспехи"
+
+  #DYNAMIC MODIFIER IDEA
+  NOR_create_viking_traditions:0 "Создать §3Традиции викингов§!"
+  NOR_modify_viking_traditions_by:0 "Изменить §YТрадиции викингов§!"
+  NOR_viking_traditions:0 "Традиции викингов"
+  NOR_create_odins_support:0 "Получить §3Поддержка Одина§!"
+  NOR_modify_odins_support_by:0 "Изменить §YПоддержка Одина§!"
+  NOR_odins_support:0 "Поддержка Одина"
+  NOR_create_power_of_asgard:0 "Получить §3Сила Асгарда§!"
+  NOR_modify_power_of_asgard_by:0 "Изменить §YСила Асгарда§!"
+  NOR_power_of_asgard:0 "Сила Асгарда"
+
+  #IDEAS
+  NOR_weak_economy:0 "Слабая экономика" 
+  NOR_defence_of_norway:0 "Оборона Норвегии" 
+  NOR_economic_development_plan:0 "План экономического развития"
+  NOR_research_council:0 "Научно-исследовательский совет" 
+  NOR_norwegian_army:0 "Норвежская армия"
+  NOR_shield_maidens:0 "Воительницы"
+  NOR_securing_the_state:0 "Обезопасить государство"
+  NOR_professional_army:0 "Профессиональная армия"
+  NOR_hirden_idea:0 "Хирден"
+  NOR_norse_influence:0 "Норвежское влияние"

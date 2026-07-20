@@ -1,0 +1,25 @@
+﻿
+l_russian:
+
+  #DYNAMIC MODIFIER IDEA
+  KIE_create_legacy_of_kievan_rus:0 "Создать §YНаследие Киевской Руси§!"
+  KIE_modify_legacy_of_kievan_rus_by:0 "Изменить §YНаследие Киевской Руси§!"
+  KIE_legacy_of_kievan_rus:0 "Наследие Киевской Руси"
+  KIE_create_grand_princes_authority:0 "Создать §YВласть Великого Князя§!"
+  KIE_modify_grand_princes_authority_by:0 "Изменить §YВласть Великого Князя§!"
+  KIE_grand_princes_authority:0 "Власть Великого Князя"
+  KIE_create_kievan_army:0 "Создать §YКиевская армия§!"
+  KIE_modify_kievan_army_by:0 "Изменить §YКиевская армия§!"
+  KIE_kievan_army:0 "Киевская армия"
+
+  #IDEAS
+  KIE_mongol_devastation:0 "Монгольское опустошение"
+  KIE_debt_to_the_horde:0 "Ордынская дань"
+  KIE_tribute_to_the_golden_horde:0 "Дань Золотой Орде"
+  KIE_ruthenian_renaissance:0 "Рутенский Ренессанс"
+  KIE_golden_gates_restored:0 "Восстановление золотых ворот"
+  KIE_unified_rus_administration:0 "Объединенная администрация Руси"
+  KIE_merchant_guilds:0 "Торговые гильдии"
+  KIE_democratic_parliament:0 "Демократический парламент"
+  KIE_absolutist_state:0 "Абсолютистское государство"
+  
