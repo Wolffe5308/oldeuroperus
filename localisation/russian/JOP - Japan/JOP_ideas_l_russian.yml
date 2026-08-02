@@ -1,0 +1,19 @@
+﻿l_russian:
+
+  #DYNAMIC MODIFIER IDEA
+  JOP_create_samurai_tradition:0 "Создать §YСамурайские традиции§!"
+  JOP_modify_samurai_tradition_by:0 "Изменить §YСамурайские традиции§! на"
+  JOP_samurai_tradition:0 "Самурайские традиции"
+  JOP_create_imperial_military:0 "Создать §YИмперская армия§!"
+  JOP_modify_imperial_military_by:0 "Изменить §YИмперская армия§! на"
+  JOP_imperial_military:0 "Имперская армия"
+  JOP_create_shadow_supremacy:0 "Создать §YТеневое превосходство§!"
+  JOP_modify_shadow_supremacy_by:0 "Изменить §YТеневое превосходство§! на"
+  JOP_shadow_supremacy:0 "Теневое превосходство"
+
+  #IDEAS
+  JOP_zen_discipline:0 "Дзен-дисциплина"
+  JOP_buddhist_teachings:0 "Буддийские учения"
+  JOP_the_way_of_purity:0 "Путь Чистоты"
+  JOP_imperial_shinto_traditions:0 "Императорские синтоистские традиции"
+  JOP_blessing_of_amaterasu:0 "Благословение Аматерасу"
