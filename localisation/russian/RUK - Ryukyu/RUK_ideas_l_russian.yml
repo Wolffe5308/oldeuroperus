@@ -1,0 +1,18 @@
+﻿l_russian:
+
+  #DYNAMIC MODIFIER IDEA
+  RUK_create_ryukyu_trade_power:0 "Превратит Рюкю в §Y торговую державу §! с особыми бонусами"
+  RUK_modify_ryukyu_trade_power_by:0 "Идея §Y Торговая мощь Рюкю §! изменится на"
+  RUK_ryukyu_trade_power:0 "Торговая сила Рюкю"
+  RUK_create_ryukyuan_navy:0 "Создать §Y Флот Рюкю §!"
+  RUK_modify_ryukyuan_navy_by:0 "Изменить §Y Флот Рюкю §! на"
+  RUK_ryukyuan_navy:0 "Флот Рюкю"
+  RUK_create_ryukyuan_piracy:0 "Создаст идею §Y пиратство Рюкю §!"
+  RUK_modify_ryukyuan_piracy_by:0 "Идея §Y Пиратство Рюкю §! изменится на"
+  RUK_ryukyuan_piracy:0 "Пиратство Рюкю"
+
+  #IDEAS
+  RUK_absolutist_state:0 "Абсолютистское государство"
+  RUK_representative_state:0 "Представительное государство"
+  RUK_dream_for_united_world:0 "Мечта о контроле мира"
+  RUK_recently_raided:0 "Недавно ограблено пиратами"
